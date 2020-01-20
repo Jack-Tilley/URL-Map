@@ -8,15 +8,16 @@ import matplotlib.pyplot as plt
 
 mypath = "/Users/Tilley/Downloads/chromedriver"
 myurl = "https://sjrfire.com"
+myurlstart = "https://sjrfire.com/about"
 # myurl = "https://youtube.com"
 # myurl = "https://reddit.com"
 
-mymap = UrlMap(myurl, mypath)
+mymap = UrlMap(myurl, mypath, myurlstart)
 mymap.create_map()
 mymap = mymap.get_map()
-print(map)
+print(mymap)
 
-G = nx.DiGraph(map)
+G = nx.DiGraph(mymap)
 nx.draw(G, with_labels=True)
 plt.draw()
 plt.show()

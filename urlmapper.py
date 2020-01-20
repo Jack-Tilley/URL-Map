@@ -8,13 +8,17 @@ from bs4 import BeautifulSoup
 
 
 class UrlMap:  # a graph containing the links a website has, links in the form of UrlNode
-    def __init__(self, base_url, path, url_map={}, local_only=True):
+    def __init__(self, base_url, path, starting_url="", url_map={}, local_only=True):
         self.base_url = base_url  # initial url. ex: https://www.youtube.com
         self.path = path  # path to chrome driver
+        self.starting_url = starting_url
         self.url_map = url_map  # dictionary containing UrlNodes
         self.seen_nodes = {}  # nodes that we have seen so far and how many times we have seen it
         self.explored = {}  # explored for bfs
-        self.queue = [base_url]  # queue for bfs
+        # self.queue = [base_url]  # queue for bfs
+        if self.starting_url == "":
+            self.starting_url = self.base_url
+        self.queue = [self.starting_url]  # queue for bfs
         self.local_only = local_only  # if true, only stays on base url, else is allowed to go to other sites
 
     def get_links(self, url):  # finds all the links on the specified url
