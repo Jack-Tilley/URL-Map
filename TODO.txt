@@ -1,9 +1,0 @@
-allow mapper to start on non base page DONE
-fix .com"" vs .com"/" KINDA
-error prevention, warnings
-documentation, examples to github
-DFS?
-incorporate visualization into urlmapper class
-allow upload to excel
-fix bfs, change data members (queue)
-allow pausing and continuation
