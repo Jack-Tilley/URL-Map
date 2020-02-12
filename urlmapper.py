@@ -5,10 +5,11 @@
 
 from webscraping_tools import ezScrape
 from bs4 import BeautifulSoup
+import requests
 
 
 class UrlMap:  # a graph containing the links a website has, links in the form of UrlNode
-    def __init__(self, base_url, path, starting_url="", url_map={}, local_only=True):
+    def __init__(self, base_url, path, starting_url="", url_map={}, local_only=True, dynamic_pages=False):
         self.base_url = base_url  # initial url. ex: https://www.youtube.com
         self.path = path  # path to chrome driver
         self.starting_url = starting_url
@@ -20,18 +21,22 @@ class UrlMap:  # a graph containing the links a website has, links in the form o
             self.starting_url = self.base_url
         self.queue = [self.starting_url]  # queue for bfs
         self.local_only = local_only  # if true, only stays on base url, else is allowed to go to other sites
+        self.dynamic_pages = dynamic_pages
 
     def get_links(self, url):  # finds all the links on the specified url
         root_node = UrlNode(url)
+        if self.dynamic_pages:
+            html = ezScrape.getHTML(url, self.path)  # gets dynamically loaded html
+        else:
+            html = requests.get(url).text
 
-        html = ezScrape.getHTML(url, self.path)  # gets dynamically loaded html
         soup = BeautifulSoup(html, "html.parser")
         links = soup.find_all("a")
 
         for link in links:
             new_node_url = link.get("href")  # collects link
 
-            if new_node_url is None:  # link is broken, missing, do nothing
+            if new_node_url is None:  # link is broken or missing, do nothing
                 continue
 
             if new_node_url.startswith("/"):  # node stays within current site
