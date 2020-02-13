@@ -8,28 +8,26 @@ from bs4 import BeautifulSoup
 import requests
 
 
+
+
 class UrlMap:  # a graph containing the links a website has, links in the form of UrlNode
-    def __init__(self, base_url, path, starting_url="", url_map={}, local_only=True, dynamic_pages=False):
+    def __init__(self, base_url, path,starting_url="", url_map={}, local_only=True, dynamic_pages=False):
         self.base_url = base_url  # initial url. ex: https://www.youtube.com
         self.path = path  # path to chrome driver
         self.starting_url = starting_url
         self.url_map = url_map  # dictionary containing UrlNodes
         self.seen_nodes = {}  # nodes that we have seen so far and how many times we have seen it
         self.explored = {}  # explored for bfs
-        # self.queue = [base_url]  # queue for bfs
         if self.starting_url == "":
             self.starting_url = self.base_url
         self.queue = [self.starting_url]  # queue for bfs
         self.local_only = local_only  # if true, only stays on base url, else is allowed to go to other sites
-        self.dynamic_pages = dynamic_pages
+        self.dynamic_pages = dynamic_pages # setting this to true will cause the program to run significantly slower
+        # but the program scraping will be extremely more accurate
+        self.stop_flag = False
 
-    def get_links(self, url):  # finds all the links on the specified url
+    def get_links(self, url, html):  # finds all the links on the specified url
         root_node = UrlNode(url)
-        if self.dynamic_pages:
-            html = ezScrape.getHTML(url, self.path)  # gets dynamically loaded html
-        else:
-            html = requests.get(url).text
-
         soup = BeautifulSoup(html, "html.parser")
         links = soup.find_all("a")
 
@@ -72,12 +70,22 @@ class UrlMap:  # a graph containing the links a website has, links in the form o
             current_node_url = self.queue.pop(0)  # get top node in queue
             # print(current_node_url)
             if self.explored.get(current_node_url, 0) == 0:  # check if url has been explored yet
-                self.get_links(current_node_url)  # get each link from that url
+                html = self.get_html(current_node_url)
+                self.get_links(current_node_url, html)  # get each link from that url
+                ## attempt to use multithreading
+
             iteration += 1
         # print("done")
 
     def get_map(self):
         return self.url_map
+
+    def get_html(self, url):
+        if self.dynamic_pages:
+            html = ezScrape.getHTML(url, self.path)  # gets dynamically loaded html
+        else:
+            html = requests.get(url).text  # gets regular html (might not be 100% accurate)
+        return html
 
 
 class UrlNode:  # a node containing the links a url contains
