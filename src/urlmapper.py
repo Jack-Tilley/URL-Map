@@ -8,8 +8,6 @@ from bs4 import BeautifulSoup
 import requests
 
 
-
-
 class UrlMap:  # a graph containing the links a website has, links in the form of UrlNode
     def __init__(self, base_url, path,starting_url="", url_map={}, local_only=True, dynamic_pages=False):
         self.base_url = base_url  # initial url. ex: https://www.youtube.com
@@ -89,7 +87,10 @@ class UrlMap:  # a graph containing the links a website has, links in the form o
 
 
 class UrlNode:  # a node containing the links a url contains
-    def __init__(self, curr_url):
+    def __init__(self, curr_url, html, ip, files=[]):
         self.curr_url = curr_url
         self.connections = {}
+        self.html = html
+        self.files = files
+        self.ip = ip
 
