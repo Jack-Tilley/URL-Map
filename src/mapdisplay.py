@@ -21,16 +21,31 @@ url_map = UrlMap(myurl, mypath, myurlstart, dynamic_pages=False)
 url_map.create_map()
 # site_mapping = url_map.get_map()
 
-site_map_json_list = url_map.json_list
-site_map_json = json.dumps(site_map_json_list, indent=4)
+# site_map_json_list = url_map.json_list
+# site_map_json = json.dumps(site_map_json_list, indent=4)
+# print(site_map_json)
 
-with open('site_map.json', 'w', encoding='utf-8') as f:
-    json.dump(site_map_json, f, ensure_ascii=False, indent=4)
+# with open('site_map.json', 'w', encoding='utf-8') as f:
+#     json.dump(site_map_json, f, ensure_ascii=False, indent=4)
+
+llu = url_map.json_links_list
+nlu = url_map.json_nodes_list
+
+nodes_and_links = {}
+nodes_and_links["nodes"] = nlu
+nodes_and_links["links"] = llu
+
+print(nodes_and_links)
+
+jsonnodesandlinks = json.dumps(nodes_and_links, indent=4)
+with open('nodesandlinks', 'w', encoding='utf-8') as f:
+    json.dump(jsonnodesandlinks, f, ensure_ascii=False, indent=4)
+
+print(jsonnodesandlinks)
 
 end = time.perf_counter()
-
-
 print(round(end - start, 2))
+
 # print(map1)
 #
 # G = nx.DiGraph(map1)

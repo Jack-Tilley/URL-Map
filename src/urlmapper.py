@@ -22,8 +22,10 @@ class UrlMap:  # a graph containing the links a website has, links in the form o
         self.local_only = local_only  # if true, only stays on base url, else is allowed to go to other sites
         self.dynamic_pages = dynamic_pages # setting this to true will cause the program to run significantly slower
         # but the program scraping will be extremely more accurate
-        self.stop_flag = False # flag that stops while loop
+        self.stop_flag = False  # flag that stops while loop
         self.json_list = []
+        self.json_links_list = []
+        self.json_nodes_list = []
 
     def get_links(self, url, html):  # finds all the links on the specified url
         root_node = UrlNode(url, html)
@@ -66,12 +68,19 @@ class UrlMap:  # a graph containing the links a website has, links in the form o
                      for key, val in root_node.connections.items()]
         root_node.json["url_links"] = url_links
         # root_node.json["url_links"] = root_node.connections
-
         # root_node.json["files"] = root_node.files
         # root_node.json["ip"] = root_node.ip
         # root_node.json["html"] = root_node.html
         self.json_list.append(root_node.json)
         # print(self.url_map)
+
+        root_node.json_node["id"] = root_node.curr_url
+        # root_node.json_node["group"] = root_node.level #  this should return the bfs level
+        self.json_nodes_list.append(root_node.json_node)
+
+        for key, val in root_node.connections.items():
+            self.json_links_list.append({"source": root_node.curr_url, "target": key, "value": val})
+        # self.json_links_list.append(root_node.json_links)
 
     def create_map(self, total_iterations=-1):  # bfs to find all nodes
         iteration = 0  # bfs will stop when iteration == total_iterations,
@@ -106,4 +115,7 @@ class UrlNode:  # a node containing the links a url contains
         self.files = files
         self.ip = ip
         self.json = {}
+        self.json_links = []
+        self.json_node = {}
+        # self.level = level # level of bfs the node was discovered on
 
