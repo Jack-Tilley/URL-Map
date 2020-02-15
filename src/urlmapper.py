@@ -22,10 +22,11 @@ class UrlMap:  # a graph containing the links a website has, links in the form o
         self.local_only = local_only  # if true, only stays on base url, else is allowed to go to other sites
         self.dynamic_pages = dynamic_pages # setting this to true will cause the program to run significantly slower
         # but the program scraping will be extremely more accurate
-        self.stop_flag = False
+        self.stop_flag = False # flag that stops while loop
+        self.json_list = []
 
     def get_links(self, url, html):  # finds all the links on the specified url
-        root_node = UrlNode(url)
+        root_node = UrlNode(url, html)
         soup = BeautifulSoup(html, "html.parser")
         links = soup.find_all("a")
 
@@ -59,6 +60,17 @@ class UrlMap:  # a graph containing the links a website has, links in the form o
 
         self.url_map[root_node.curr_url] = root_node.connections  # add the node we just explored to our graph
         self.explored[root_node.curr_url] = 1  # adds current node to our explored dictionary
+
+        root_node.json["url"] = root_node.curr_url
+        url_links = [{"url_link": key, "times_linked": val}
+                     for key, val in root_node.connections.items()]
+        root_node.json["url_links"] = url_links
+        # root_node.json["url_links"] = root_node.connections
+
+        # root_node.json["files"] = root_node.files
+        # root_node.json["ip"] = root_node.ip
+        # root_node.json["html"] = root_node.html
+        self.json_list.append(root_node.json)
         # print(self.url_map)
 
     def create_map(self, total_iterations=-1):  # bfs to find all nodes
@@ -87,10 +99,11 @@ class UrlMap:  # a graph containing the links a website has, links in the form o
 
 
 class UrlNode:  # a node containing the links a url contains
-    def __init__(self, curr_url, html, ip, files=[]):
+    def __init__(self, curr_url, html, ip="", files=[]):
         self.curr_url = curr_url
         self.connections = {}
         self.html = html
         self.files = files
         self.ip = ip
+        self.json = {}
 
