@@ -35,13 +35,13 @@ nodes_and_links = {}
 nodes_and_links["nodes"] = nlu
 nodes_and_links["links"] = llu
 
-print(nodes_and_links)
+# print(nodes_and_links)
 
 jsonnodesandlinks = json.dumps(nodes_and_links, indent=4)
 with open('nodesandlinks', 'w', encoding='utf-8') as f:
     json.dump(jsonnodesandlinks, f, ensure_ascii=False, indent=4)
 
-print(jsonnodesandlinks)
+# print(jsonnodesandlinks)
 
 end = time.perf_counter()
 print(round(end - start, 2))

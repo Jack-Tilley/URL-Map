@@ -9,7 +9,7 @@ import requests
 
 
 class UrlMap:  # a graph containing the links a website has, links in the form of UrlNode
-    def __init__(self, base_url, path,starting_url="", url_map={}, local_only=True, dynamic_pages=False):
+    def __init__(self, base_url, path, starting_url="", url_map={}, local_only=True, dynamic_pages=False):
         self.base_url = base_url  # initial url. ex: https://www.youtube.com
         self.path = path  # path to chrome driver
         self.starting_url = starting_url
@@ -26,6 +26,10 @@ class UrlMap:  # a graph containing the links a website has, links in the form o
         self.json_list = []
         self.json_links_list = []
         self.json_nodes_list = []
+        if self.local_only:
+            self.end_url_index = len(base_url) - 1  # helps get the number of "/"
+        else:
+            self.end_url_index = -2 # this needs to be fixed
 
     def get_links(self, url, html):  # finds all the links on the specified url
         root_node = UrlNode(url, html)
@@ -34,10 +38,8 @@ class UrlMap:  # a graph containing the links a website has, links in the form o
 
         for link in links:
             new_node_url = link.get("href")  # collects link
-
             if new_node_url is None:  # link is broken or missing, do nothing
                 continue
-
             if new_node_url.startswith("/"):  # node stays within current site
                 new_node_url = self.base_url + new_node_url
             elif new_node_url.startswith("http"):  # node leads to another site
@@ -60,9 +62,27 @@ class UrlMap:  # a graph containing the links a website has, links in the form o
                 # adds new node to queue to be explored
                 self.queue.append(new_node_url)
 
+        root_node.link_level = self.get_link_level(root_node.curr_url, self.end_url_index)
+
         self.url_map[root_node.curr_url] = root_node.connections  # add the node we just explored to our graph
         self.explored[root_node.curr_url] = 1  # adds current node to our explored dictionary
+        self.update_json(root_node)
 
+    def create_map(self, total_iterations=-1):  # bfs to find all nodes
+        iteration = 0  # bfs will stop when iteration == total_iterations,
+        # if total_iteration is negative we will continue until we have exhausted the queue
+        while self.queue and iteration != total_iterations:
+            current_node_url = self.queue.pop(0)  # get top node in queue
+            # print(current_node_url)
+            if self.explored.get(current_node_url, 0) == 0:  # check if url has been explored yet
+                html = self.get_html(current_node_url)
+                self.get_links(current_node_url, html)  # get each link from that url
+                ## attempt to use multithreading
+
+            iteration += 1
+        # print("done")
+
+    def update_json(self, root_node):
         root_node.json["url"] = root_node.curr_url
         url_links = [{"url_link": key, "times_linked": val}
                      for key, val in root_node.connections.items()]
@@ -82,20 +102,6 @@ class UrlMap:  # a graph containing the links a website has, links in the form o
             self.json_links_list.append({"source": root_node.curr_url, "target": key, "value": val})
         # self.json_links_list.append(root_node.json_links)
 
-    def create_map(self, total_iterations=-1):  # bfs to find all nodes
-        iteration = 0  # bfs will stop when iteration == total_iterations,
-        # if total_iteration is negative we will continue until we have exhausted the queue
-        while self.queue and iteration != total_iterations:
-            current_node_url = self.queue.pop(0)  # get top node in queue
-            # print(current_node_url)
-            if self.explored.get(current_node_url, 0) == 0:  # check if url has been explored yet
-                html = self.get_html(current_node_url)
-                self.get_links(current_node_url, html)  # get each link from that url
-                ## attempt to use multithreading
-
-            iteration += 1
-        # print("done")
-
     def get_map(self):
         return self.url_map
 
@@ -106,9 +112,14 @@ class UrlMap:  # a graph containing the links a website has, links in the form o
             html = requests.get(url).text  # gets regular html (might not be 100% accurate)
         return html
 
+    def get_link_level(self, url, base_url_index):
+        ending_url = url[base_url_index:]
+        return ending_url.count("/")
+
+
 
 class UrlNode:  # a node containing the links a url contains
-    def __init__(self, curr_url, html, ip="", files=[]):
+    def __init__(self, curr_url, html="", ip="", files=[], bfs_level=0, link_level=0):
         self.curr_url = curr_url
         self.connections = {}
         self.html = html
@@ -117,5 +128,6 @@ class UrlNode:  # a node containing the links a url contains
         self.json = {}
         self.json_links = []
         self.json_node = {}
-        # self.level = level # level of bfs the node was discovered on
+        self.bfslevel = bfs_level # level of bfs the node was discovered on
+        self.link_level = link_level # number of links away from base url
 
