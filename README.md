@@ -29,4 +29,4 @@ _Dependencies: Python, matplotlib, networkx, bs4, selenium, requests, possibly o
 ## Required Resources
 - _Python3_
 
-![Example map](mapExample.png)
+![Example map](siteLayoutExample.png)
