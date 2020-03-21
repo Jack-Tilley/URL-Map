@@ -1,26 +1,45 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<script src="https://d3js.org/d3.v4.min.js"></script>
-<script src="https://d3js.org/d3-selection-multi.v1.js"></script>
 <html>
 <head>
-    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style type="text/css">
-        .node {}
-
-        .link { stroke: rgb(46, 41, 41); stroke-opacity: .6; stroke-width: 1px; }
-    </style>
+    <link rel="stylesheet" type="text/css" href="./css/styles.css">
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/minty/bootstrap.min.css">
+    
     <title>URL-MAP</title>
 </head>
 <body>
-    <h1>
-        Url-Map
-    </h1>
-    <svg width="960" height="600"></svg>
+    <div class="header">
+        <h1 id="siteheader">Url-Map</h1>
+    </div>
+    
+    <div class="navbar">
+        <a href="#">HOME</a>
+        <a href="#">ABOUT</a>
+        <a href="#">CONTACT</a>
+        <a href="#">SOMETHING</a>
+        <a href="#">SOMETHING ELSE</a>
+    </div>
 
-<!--    <canvas width="960" height="500"></canvas>-->
+    <div class="form-container">
+        <form>
+            URL: <input type = "text" label="url" />
+            <br>
+            Max Nodes: <input type = "text" label= "max_nodes" />
+            <br>
+            <input type = "checkbox" name = "dynamic" value = "on"> Dynamic
+        </form>
+        
+
+    </div>
+    <div class="container">
+        <svg width="500" height="600"></svg>
+    </div>
+
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/d3-selection-multi.v1.js"></script>
     <script type="text/javascript" src="./js/mapscript.js"></script>
 </body>
 </html>

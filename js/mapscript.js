@@ -141,8 +141,9 @@ function dragged(d) {
     d.fy = d3.event.y;
 }
 
-    function dragended(d) {
-        if (!d3.event.active) simulation.alphaTarget(0);
-        d.fx = undefined;
-        d.fy = undefined;
-    }
+    // function dragended(d) {
+    //     if (!d3.event.active) simulation.alphaTarget(0);
+    //     d.fx = undefined;
+    //     d.fy = undefined;
+    // }
+
