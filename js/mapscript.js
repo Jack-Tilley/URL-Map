@@ -25,7 +25,7 @@ var simulation = d3.forceSimulation()
     .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2));
 
-d3.json("graph.json", function (error, graph) {
+d3.json("./json_files/nodesandlinks.json", function (error, graph) {
     if (error) throw error;
     update(graph.links, graph.nodes);
 })
@@ -38,8 +38,8 @@ function update(links, nodes) {
         .attr("class", "link")
         .attr('marker-end','url(#arrowhead)')
 
-    link.append("title")
-        .text(function (d) {return d.type;});
+    // link.append("title")
+    //     .text(function (d) {return d.type;});
 
     edgepaths = svg.selectAll(".edgepath")
         .data(links)
@@ -65,12 +65,12 @@ function update(links, nodes) {
             'fill': '#aaa'
         });
 
-    edgelabels.append('textPath')
-        .attr('xlink:href', function (d, i) {return '#edgepath' + i})
-        .style("text-anchor", "middle")
-        .style("pointer-events", "none")
-        .attr("startOffset", "50%")
-        .text(function (d) {return d.type});
+    // edgelabels.append('textPath')
+    //     .attr('xlink:href', function (d, i) {return '#edgepath' + i})
+    //     .style("text-anchor", "middle")
+    //     .style("pointer-events", "none")
+    //     .attr("startOffset", "50%")
+    //     .text(function (d) {return d.type});
 
     node = svg.selectAll(".node")
         .data(nodes)
@@ -92,7 +92,7 @@ function update(links, nodes) {
 
     node.append("text")
         .attr("dy", -3)
-        .text(function (d) {return d.name+":"+d.label;});
+        .text(function (d) {return d.id;});
 
     simulation
         .nodes(nodes)
@@ -140,3 +140,9 @@ function dragged(d) {
     d.fx = d3.event.x;
     d.fy = d3.event.y;
 }
+
+    function dragended(d) {
+        if (!d3.event.active) simulation.alphaTarget(0);
+        d.fx = undefined;
+        d.fy = undefined;
+    }
