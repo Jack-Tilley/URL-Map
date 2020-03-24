@@ -33,3 +33,6 @@ _Dependencies: Python, matplotlib, networkx, bs4, selenium, requests, possibly o
 - _Python3_
 
 ![Example map](siteLayoutExample.png)
+
+## Vision Statement
+Our vision is to create a way for people to better visualize what a website looks like. We want to allow our users to see a thorough overview of any website of their choice and give them options on how to improve, access, view, map, or plan their website.
