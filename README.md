@@ -15,14 +15,18 @@ _This project will cover many important goals of this class such as OOP, TDD, Mu
 _There are many things that could be done to improve the project including but not limited to: URL-Map display organization improvement, IP and File gathering, URL-Map interactability, Database connection, Overall speed, Cloud computing, URL-Map Domain, etc... This project is just starting so the possibilities are really limitless at this point._
 
 ## Background
-_Dependencies: Python, matplotlib, networkx, bs4, selenium, requests, possibly others._ 
+_Dependencies: Javascript, Golang, Python, matplotlib, networkx, bs4, selenium, requests, possibly others._ 
 
 <https://github.com/Jack-Tilley/URL-Map>
 
 <https://trello.com/b/TbqWKw6l/url-map>
 
 ***Building***
-- Work done using python3 
+- Work done using python3, Golang, and Javascript
+- python3 for gathering website nodes
+- Golang for server backend/http
+- Javascript for for frontend/ UI
+
 - Make sure dependencies are installed 
 
 **Running**
@@ -33,3 +37,6 @@ _Dependencies: Python, matplotlib, networkx, bs4, selenium, requests, possibly o
 - _Python3_
 
 ![Example map](siteLayoutExample.png)
+
+## Vision Statement
+Our vision is to create a way for people to better visualize what a website looks like. We want to allow our users to see a thorough overview of any website of their choice and give them options on how to improve, access, view, map, or plan their website.
