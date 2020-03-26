@@ -1,3 +1,4 @@
+
 var colors = d3.scaleOrdinal(d3.schemeCategory10);
 
 var svg = d3.select("svg"),

@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="./css/layout.css">
-    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/minty/bootstrap.min.css">
-    <title>Url-Map</title>
+    <title>{{.Title}}</title>
 </head>
+     {{/* <link type= "text/css" href="/public/stylesheets/main.css"> */}}
+    <link rel="stylesheet" href="stylesheets/layout.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/minty/bootstrap.min.css">
 <body>
     <div class="grid-container">
         <div class="grid-item" id="header">
@@ -21,28 +22,30 @@
             </div>
         </div>
         <div class="grid-item" id="forms">
-            <form>
-                <h2>Forms</h2>
-                <div>
-                    <label>URL:</label>
-                    <input type="url">
-                </div>
-                <div>
-                    <label>Max nodes:</label>
-                    <input type="number">
-                </div>
-                <div>
-                    <label>dynamically loaded:</label>
-                    <input type="radio">
-                </div>
-                <div>
-                    <button>Submit</button>
-                </div>
-                
 
+            <h2>Forms</h2>
+            <form action="/map.html" method="post">
+                <div>
+                    <label for="fnm">First Name</label>
+                    <input type="text" name="fname" id="fnm">
+                </div>
+                <div>
+                    <label for="url">URL</label>
+                    <input type="text" name="url" id="url">
+                </div>
+                <div>
+                    <label for="mxn">Max Nodes</label>
+                    <input type="text" name="maxnodes" id="mxn">
+                </div>
+                <div>
+                    <label for="dyn">Dynamic</label>
+                    <input type="text" name="dynamic" id="dyn">
+                </div> 
+                <input type="submit">
             </form>
 
         </div>
+
         <div class="grid-item" id="graphdisplay">
             <div class="container">
                 <svg class="svg" width=500 height=400></svg>
@@ -57,6 +60,6 @@
 
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/d3-selection-multi.v1.js"></script>
-    <script type="text/javascript" src="./js/mapscript.js"></script>
+    <script type="text/javascript" src="js/mapscript.js"></script>
 </body>
 </html>
