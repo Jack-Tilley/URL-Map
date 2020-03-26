@@ -26,7 +26,8 @@ var simulation = d3.forceSimulation()
     .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2)); // forces nodes to center of svg
 
-d3.json("./json_files/nodesandlinks.json", function (error, graph) { // collects info via json
+var jsonfile = "public/json_files/nodesandlinks.json"
+d3.json(jsonfile, function (error, graph) { // collects info via json
     if (error) throw error;
     update(graph.links, graph.nodes);
 })

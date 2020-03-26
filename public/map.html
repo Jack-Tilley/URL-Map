@@ -6,7 +6,7 @@
     <title>{{.Title}}</title>
 </head>
      {{/* <link type= "text/css" href="/public/stylesheets/main.css"> */}}
-    <link rel="stylesheet" href="stylesheets/layout.css">
+    <link rel="stylesheet" href="./public/stylesheets/layout.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/minty/bootstrap.min.css">
 <body>
     <div class="grid-container">
@@ -24,7 +24,7 @@
         <div class="grid-item" id="forms">
 
             <h2>Forms</h2>
-            <form action="/map.html" method="post">
+            <form action="/map" method="post">
                 <div>
                     <label for="fnm">First Name</label>
                     <input type="text" name="fname" id="fnm">
@@ -60,6 +60,6 @@
 
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/d3-selection-multi.v1.js"></script>
-    <script type="text/javascript" src="js/mapscript.js"></script>
+    <script type="text/javascript" src="./public/js/mapscript.js"></script>
 </body>
 </html>
