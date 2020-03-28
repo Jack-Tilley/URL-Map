@@ -45,7 +45,7 @@ nodes_and_links["links"] = llu
 # dumps the properly formatted json data to file
 jsonnodesandlinks = json.dumps(nodes_and_links, indent=4)
 with open('public/json_files/JSONOUTPUT.json', 'w', encoding='utf-8') as f:
-    json.dump(jsonnodesandlinks, f, ensure_ascii=False, indent=4)
+    f.write(jsonnodesandlinks)
 
 # print(jsonnodesandlinks)
 

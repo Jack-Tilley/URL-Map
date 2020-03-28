@@ -32,7 +32,6 @@ class UrlMap:
         self.seen_nodes = {}  # nodes that we have seen so far and how many times we have seen it
         self.explored = {}  # explored for bfs
         self.queue = [self.starting_url]  # queue for bfs
-        self.local_only = local_only  # if true, only stays on base url, else is allowed to go to other sites
         self.stop_flag = False  # flag that stops while loop
         self.json_list = []
         self.json_links_list = []
