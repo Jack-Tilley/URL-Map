@@ -9,8 +9,8 @@ from operator import itemgetter
 def collect_args():
     parser = argparse.ArgumentParser(description='testing argparse')
     parser.add_argument("--url", default="nourlentered", help="This is the 'url' variable")
-    parser.add_argument("--mn", default="50", help="This is the 'maxnodes' variable")
-    parser.add_argument("--dy", default="false", help="This is the 'dynamic' variable")
+    parser.add_argument("--mn", default="-1", help="This is the 'maxnodes' variable")
+    parser.add_argument("--dy", default="False", help="This is the 'dynamic' variable")
 
     args = parser.parse_args()
     url = args.url

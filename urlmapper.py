@@ -9,26 +9,35 @@
 from webscraping_tools import ezScrape
 from bs4 import BeautifulSoup
 import requests
+import socket
 
 # a graph containing the links a website has, links in the form of UrlNode
 class UrlMap:
-    def __init__(self, base_url, path, starting_url="", url_map={}, local_only=True, dynamic_pages=False):
+    def __init__(self, base_url, path, starting_url=None, this_map=None, local_only=None, dynamic_pages=None):
         self.base_url = base_url  # initial url. ex: https://www.youtube.com
         self.path = path  # path to chrome driver
         self.starting_url = starting_url
-        self.url_map = url_map  # dictionary containing UrlNodes
+        ## setting default values
+        # dictionary containing UrlNodes
+        self.this_map = this_map if this_map is not None else {}
+        # where the crawl should start from
+        self.starting_url = starting_url if starting_url is not None else base_url
+        # should we stay local to this site or allow crossover to other sites
+        # True is almost always recommended
+        self.local_only = local_only if local_only is not None else True
+        # setting this to true will cause the program to run significantly slower
+        # but the program scraping will be extremely more accurate
+        self.dynamic_pages = dynamic_pages if dynamic_pages is not None else False
+        ## done setting default vals
         self.seen_nodes = {}  # nodes that we have seen so far and how many times we have seen it
         self.explored = {}  # explored for bfs
-        if self.starting_url == "":
-            self.starting_url = self.base_url
         self.queue = [self.starting_url]  # queue for bfs
         self.local_only = local_only  # if true, only stays on base url, else is allowed to go to other sites
-        self.dynamic_pages = dynamic_pages # setting this to true will cause the program to run significantly slower
-        # but the program scraping will be extremely more accurate
         self.stop_flag = False  # flag that stops while loop
         self.json_list = []
         self.json_links_list = []
         self.json_nodes_list = []
+        self.iter = 0
         if self.local_only:
             self.end_url_index = len(base_url) - 1  # helps get the number of "/"
         else:
@@ -87,12 +96,17 @@ class UrlMap:
         # add the node we just explored to our graph
         # adds current node to our explored dictionary
         # updates our json output to include this node
-        self.url_map[root_node.curr_url] = root_node.connections 
+        self.this_map[root_node.curr_url] = root_node.connections 
         self.explored[root_node.curr_url] = 1 
         self.update_json(root_node)
 
     # bfs to find all nodes from the given url
-    def create_map(self, total_iterations=-1):
+    def create_map(self, total_iterations=None):
+        # set default value of total_iterations
+        if total_iterations is None:
+            total_iterations = 30
+        else:
+            total_iterations = total_iterations
         ## total_iterations usage SHOULD BE UPDATED AS IT IS NOT PROPER STYLE
 
         # bfs will stop when iteration == total_iterations,
@@ -122,7 +136,7 @@ class UrlMap:
         # root_node.json["ip"] = root_node.ip
         # root_node.json["html"] = root_node.html
         self.json_list.append(root_node.json)
-        # print(self.url_map)
+        # print(self.this_map)
 
         root_node.json_node["id"] = root_node.curr_url
         # root_node.json_node["group"] = root_node.level #  this should return the bfs level
@@ -134,13 +148,14 @@ class UrlMap:
 
     # returns the map we have created
     def get_map(self):
-        return self.url_map
+        return self.this_map
 
     # gets html dynamically or standard
     # dynamically takes significantly longer
     # but is truer to the actual html of the page
     # standard is faster but might not represent
     # the actual contents of the page
+    ## MAYBE MOVE THIS TO URLNODE CLASS
     def get_html(self, url):
         if self.dynamic_pages:
             # gets dynamically loaded html
@@ -153,6 +168,7 @@ class UrlMap:
     # gets the link level of the given node
     # (how many / it contains compared to base url)
     ## THIS COULD USE SOME MODIFICATION
+    ## MAYBE MOVE THIS TO URLNODE CLASS
     def get_link_level(self, url, base_url_index):
         ending_url = url[base_url_index:]
         return ending_url.count("/")
@@ -171,4 +187,8 @@ class UrlNode:
         self.json_node = {}
         self.bfs_level = bfs_level # level of bfs the node was discovered on
         self.link_level = link_level # number of links away from base url
+
+    # converts domain name into ip
+    def set_ip(self):
+        self.ip = socket.gethostbyname(self.curr_url)
 
