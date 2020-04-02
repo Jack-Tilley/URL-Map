@@ -39,4 +39,4 @@ _Dependencies: Javascript, Golang, Python, matplotlib, networkx, bs4, selenium, 
 ![Example map](siteLayoutExample.png)
 
 ## Vision Statement
-Our vision is to create a way for people to better visualize what a website looks like. We want to allow our users to see a thorough overview of any website of their choice and give them options on how to improve, access, view, map, or plan their website.
+Our vision is to create a way for people to better visualize what a website looks like. We want to allow our users to see a thorough overview of any website of their choice and give them options on how to improve, access, view, map, or plan their website. We want to do this in a non-intrusive way, while following all restrictions from sites regarding scraping and terms of service. We would like to give our users a way to visualize their product and be able to see new ideas on how to improve or change their product with new guidance from Url-Map
