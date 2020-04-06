@@ -1,7 +1,7 @@
 # Jack Tilley
 # January 2020
 # This module serves to display the previously scraped websites network
-
+#
 from urlmapper import UrlMap
 import time
 import json
