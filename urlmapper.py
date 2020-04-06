@@ -29,13 +29,13 @@ class UrlMap:
         # but the program scraping will be extremely more accurate
         self.dynamic_pages = dynamic_pages if dynamic_pages is not None else False
         ## done setting default vals
-        self.seen_nodes = {}  # nodes that we have seen so far and how many times we have seen it
+        self.seen_nodes = {self.starting_url : 1}  # nodes that we have seen so far and how many times we have seen it
         self.explored = {}  # explored for bfs
         self.queue = [self.starting_url]  # queue for bfs
         self.stop_flag = False  # flag that stops while loop
         self.json_list = []
-        self.json_links_list = []
-        self.json_nodes_list = []
+        self.json_links_list = [] # holds the links key in json output file
+        self.json_nodes_list = [] # holds the nodes key in json output file
         self.iter = 0
         if self.local_only:
             self.end_url_index = len(base_url) - 1  # helps get the number of "/"
@@ -79,7 +79,7 @@ class UrlMap:
 
             # print(new_node_url)
 
-            # self.seen_nodes[new_node_url] = self.seen_nodes.get(new_node_url, 0) + 1
+            self.seen_nodes[new_node_url] = self.seen_nodes.get(new_node_url, 0) + 1
 
             #  adds new node to our seen collection, inc times seen
             root_node.connections[new_node_url] = root_node.connections.get(new_node_url, 0) + 1
@@ -122,6 +122,16 @@ class UrlMap:
                 ## ATTEMPT TO USE MULTITHREADING HERE
 
             iteration += 1
+
+        # quick fix for display bug
+        for node_url in self.seen_nodes.keys():
+            json_node = {}
+            json_node["id"] = node_url
+            # root_node.json_node["id"] = root_node.curr_url
+            # root_node.json_node["group"] = root_node.level #  this should return the bfs level
+            self.json_nodes_list.append(json_node)
+
+
         # print("done")
 
     # updates json file with new node
@@ -137,9 +147,11 @@ class UrlMap:
         self.json_list.append(root_node.json)
         # print(self.this_map)
 
-        root_node.json_node["id"] = root_node.curr_url
-        # root_node.json_node["group"] = root_node.level #  this should return the bfs level
-        self.json_nodes_list.append(root_node.json_node)
+        #### MOVE THIS
+        # root_node.json_node["id"] = root_node.curr_url
+        # # root_node.json_node["group"] = root_node.level #  this should return the bfs level
+        # self.json_nodes_list.append(root_node.json_node)
+        #### MOVE THIS 
 
         for key, val in root_node.connections.items():
             self.json_links_list.append({"source": root_node.curr_url, "target": key, "value": val})
