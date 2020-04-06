@@ -29,7 +29,7 @@ else:
 
 
 url_map = UrlMap(myurl, mypath, myurl, dynamic_pages=mydynamic)
-url_map.create_map()
+url_map.create_map(total_iterations=mymaxnodes)
 
 # properly formats json data for d3.js
 llu = url_map.json_links_list
