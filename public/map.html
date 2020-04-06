@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>UrlMap</title>
 </head>
+
     <link rel="stylesheet" href="./public/stylesheets/layout.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/minty/bootstrap.min.css">
 <body>
@@ -39,26 +42,39 @@
                 <div>
                     <label for="dyn">Dynamic</label>
                     <input type="text" name="dynamic" id="dyn">
+
                 </div> 
+
+                <label for="dtype">Choose a display type:</label>
+                <select id="dtype">
+                <option value="network">Network</option>
+                <option value="tree">Tree</option>
+                </select>
+
                 <input type="submit">
             </form>
 
         </div>
+                 
 
         <div class="grid-item" id="graphdisplay">
             <div class="container">
                 <svg class="svg" width=500 height=400></svg>
             </div>
         </div>
+
+
         <div class="grid-item" id="footer">
             <div>
                 This is the Footer
             </div>
         </div>
     </div>
-
+    <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/d3-selection-multi.v1.js"></script>
     <script type="text/javascript" src="./public/js/mapscript.js"></script>
+    <script type="text/javascript" src="./public/js/collaspeTree.js"></script>
+
 </body>
 </html>
