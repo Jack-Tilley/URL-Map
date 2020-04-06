@@ -16,6 +16,8 @@ mymap2.create_map(total_iterations=0)
 mymap3 = UrlMap(myurl1, mypath)
 mymap3.create_map() # total_iterations defaults to 30
 
+# print(mymap1.get_map())
+# print(len(mymap1.this_map.keys()))
 class TestUrlMap(unittest.TestCase):
 
     # test to see that we get the correct amount of nodes

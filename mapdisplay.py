@@ -3,8 +3,6 @@
 # This module serves to display the previously scraped websites network
 
 from urlmapper import UrlMap
-import networkx as nx
-import matplotlib.pyplot as plt
 import time
 import json
 from operator import itemgetter
