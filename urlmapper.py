@@ -43,16 +43,33 @@ class UrlMap:
             self.end_url_index = -2 # this needs to be fixed
 
     # finds all the links on the specified url
-    def get_links(self, url, html):
+    def get_links(self, url, html, LevelNumber, iteration, LevelNumber2):
         # creates a root node for the current page
         # gets all links from the html of that page
+        
+
+        
         root_node = UrlNode(url, html)
+        root_node.bfs_level = level
         soup = BeautifulSoup(html, "html.parser")
         links = soup.find_all("a")
+        if iteration = 0:
+            LevelNumber = links.count
+
+        else if iteration >= LevelNumber:
+             
+            level += 1
+            
+            LevelNumber = LevelNumber2
+            
+         else:
+             LevelNumber2 += links.count
+        
 
         # loops through each link we found earlier
         # creates a new node if the format is valid
         for link in links:
+            
             # collects link
             new_node_url = link.get("href")
 
@@ -63,6 +80,7 @@ class UrlMap:
             # if node stays within current site
             if new_node_url.startswith("/"):
                 new_node_url = self.base_url + new_node_url
+
 
             # if node leads to another site
             elif new_node_url.startswith("http"): 
@@ -111,6 +129,9 @@ class UrlMap:
         # bfs will stop when iteration == total_iterations,
         # if total_iteration is negative we will continue until we have exhausted the queue
         iteration = 0  
+        level = 0
+        LevelNumber = 0
+        LevelNumber2 = 0
         while self.queue and iteration != total_iterations:
             current_node_url = self.queue.pop(0) 
             # print(current_node_url)
@@ -118,7 +139,7 @@ class UrlMap:
             # check if url has been explored yet
             if self.explored.get(current_node_url, 0) == 0:
                 html = self.get_html(current_node_url)
-                self.get_links(current_node_url, html)
+                self.get_links(current_node_url, html, LevelNumber, iteration, LevelNumber2)
                 ## ATTEMPT TO USE MULTITHREADING HERE
 
             iteration += 1
@@ -130,6 +151,7 @@ class UrlMap:
             # root_node.json_node["id"] = root_node.curr_url
             # root_node.json_node["group"] = root_node.level #  this should return the bfs level
             self.json_nodes_list.append(json_node)
+            
 
 
         # print("done")
