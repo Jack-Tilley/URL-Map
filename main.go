@@ -58,7 +58,6 @@ func mmap(w http.ResponseWriter, req *http.Request) {
 
 		// fmt.Println(pyvars)
 		sendData(postURL, postMaxNodes, postDynamic)
-
 	}
 	// fmt.Fprintf(w, "map is this")
 	http.ServeFile(w, req, "./public/map.html")
