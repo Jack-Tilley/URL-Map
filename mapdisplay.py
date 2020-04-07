@@ -1,10 +1,8 @@
 # Jack Tilley
 # January 2020
 # This module serves to display the previously scraped websites network
-
+#
 from urlmapper import UrlMap
-import networkx as nx
-import matplotlib.pyplot as plt
 import time
 import json
 from operator import itemgetter
@@ -15,7 +13,6 @@ myurlstart = "https://sjrfire.com"
 # myurl = "https://youtube.com"
 # myurl = "https://reddit.com"
 
-start = time.perf_counter()
 
 # creates our UrlMap object
 url_map = UrlMap(myurl, mypath, myurlstart, dynamic_pages=False)
@@ -43,9 +40,6 @@ with open('nodesandlinks', 'w', encoding='utf-8') as f:
     json.dump(jsonnodesandlinks, f, ensure_ascii=False, indent=4)
 
 # print(jsonnodesandlinks)
-
-end = time.perf_counter()
-t = url_map.get_time(start, end)
 
 # draws the map in python
 # print(map1)
