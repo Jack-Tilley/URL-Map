@@ -13,7 +13,6 @@ myurlstart = "https://sjrfire.com"
 # myurl = "https://youtube.com"
 # myurl = "https://reddit.com"
 
-start = time.perf_counter()
 
 # creates our UrlMap object
 url_map = UrlMap(myurl, mypath, myurlstart, dynamic_pages=False)
@@ -41,9 +40,6 @@ with open('nodesandlinks', 'w', encoding='utf-8') as f:
     json.dump(jsonnodesandlinks, f, ensure_ascii=False, indent=4)
 
 # print(jsonnodesandlinks)
-
-end = time.perf_counter()
-print(round(end - start, 2))
 
 # draws the map in python
 # print(map1)

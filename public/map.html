@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UrlMap</title>
-</head>
     <link rel="stylesheet" href="./public/stylesheets/layout.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/minty/bootstrap.min.css">
+    <title>UrlMap</title>
+</head>
+
 <body>
+
     <div class="grid-container">
         <div class="grid-item" id="header">
             <h1>Url-Map</h1>
@@ -20,8 +23,8 @@
                 <a href="https://github.com/Jack-Tilley/URL-Map">Github</a>
             </div>
         </div>
-        <div class="grid-item" id="forms">
 
+        <div class="grid-item" id="forms">
             <h2>Forms</h2>
             <form action="/map" method="post">
                 <div>
@@ -34,18 +37,21 @@
                 </div>
                 <div>
                     <label for="dyn">Dynamic</label>
-                    <input type="text" name="dynamic" id="dyn">
+                    <select name="dynamic" id="dyn">
+                        <option value="False">False</option>
+                        <option value="True">True</option>
+                    </select>
                 </div> 
                 <input type="submit">
             </form>
-
         </div>
 
         <div class="grid-item" id="graphdisplay">
             <div class="container">
-                <svg class="svg" width=500 height=400></svg>
+                <svg class="svg" width=800 height=600></svg>
             </div>
         </div>
+
         <div class="grid-item" id="footer">
             <div>
                 Display json output: 

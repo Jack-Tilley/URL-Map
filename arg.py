@@ -4,6 +4,7 @@
 import argparse
 from urlmapper import UrlMap
 import json
+import time
 import requests
 
 # collects the arguments passed by main.go
@@ -51,7 +52,6 @@ def make_map(arg_tuple):
 
     return url_map
 
-# properly formats json data for d3.js
 def format_json(url_map):
     # output format to be converted to json
     nodes_and_links = {}
@@ -60,9 +60,12 @@ def format_json(url_map):
     nlu = url_map.json_nodes_list
     # links key in json
     llu = url_map.json_links_list
+    # time key in json
+    tlu = url_map.json_time_list
 
     nodes_and_links["nodes"] = nlu
     nodes_and_links["links"] = llu
+    nodes_and_links["exectime"] = tlu
     print(nodes_and_links)
 
     return nodes_and_links
@@ -79,7 +82,6 @@ def main():
     url_map = make_map(arg_tuple)
     nodes_and_links = format_json(url_map)
     write_to_json('public/json_files/JSONOUTPUT.json', nodes_and_links)
-
 
 if __name__ == '__main__':
     main()
