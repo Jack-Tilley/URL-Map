@@ -76,7 +76,7 @@ func GetPort() string {
 }
 
 func sendData(url string, maxnodes string, dynamic string) {
-	cmd := exec.Command("python3", "./arg.py", "--url", url, "--mn", maxnodes, "--dy", dynamic)
+	cmd := exec.Command("python", "./arg.py", "--url", url, "--mn", maxnodes, "--dy", dynamic)
 
 	stdout, err := cmd.StdoutPipe()
 	if err != nil {
