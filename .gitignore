@@ -154,3 +154,6 @@ Bin/
 # idek what types of files these are
 .cs
 .csproj
+
+#the JSONOUTPUT files
+json_files/
