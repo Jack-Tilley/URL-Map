@@ -140,3 +140,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# bin/obj stuff
+[Bb]in
+[Dd]ebug*/
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+bin/
+Bin/
+
+# idek what types of files these are
+.cs
+.csproj
