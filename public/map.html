@@ -29,15 +29,15 @@
             <form action="/map" method="post">
                 <div>
                     <label for="url">URL</label>
-                    <input type="text" name="url" id="url">
+                    <input type="url" name="url" id="url" required>
                 </div>
                 <div>
                     <label for="mxn">Max Nodes</label>
-                    <input type="text" name="maxnodes" id="mxn">
+                    <input type="number" name="maxnodes" id="mxn" required>
                 </div>
                 <div>
                     <label for="dyn">Dynamic</label>
-                    <input type="text" name="dynamic" id="dyn">
+                    <input type="text" name="dynamic" id="dyn" required>
 
                 </div> 
 
@@ -48,10 +48,11 @@
                 </select>
 
                 <input type="submit">
-
-            
             
             </form>
+
+
+        
 
         </div>
                  
