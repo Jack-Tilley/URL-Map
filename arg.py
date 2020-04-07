@@ -4,6 +4,7 @@
 import argparse
 from urlmapper import UrlMap
 import json
+import time
 
 mypath = "/Users/Tilley/Downloads/chromedriver"
 
@@ -27,6 +28,7 @@ if args[2] == 'True':
 else:
     mydynamic = False
 
+start = time.perf_counter()
 
 url_map = UrlMap(myurl, mypath, myurl, dynamic_pages=mydynamic)
 url_map.create_map(total_iterations=mymaxnodes)
@@ -34,15 +36,20 @@ url_map.create_map(total_iterations=mymaxnodes)
 # properly formats json data for d3.js
 llu = url_map.json_links_list
 nlu = url_map.json_nodes_list
+tlu = url_map.json_time_list
 nodes_and_links = {}
 nodes_and_links["nodes"] = nlu
 nodes_and_links["links"] = llu
+nodes_and_links["exectime"] = tlu
 print(nodes_and_links)
 
 # dumps the properly formatted json data to file
 jsonnodesandlinks = json.dumps(nodes_and_links, indent=4)
 with open('public/json_files/JSONOUTPUT.json', 'w', encoding='utf-8') as f:
     f.write(jsonnodesandlinks)
+
+end = time.perf_counter()
+t = url_map.get_time(start,end)
 
 # print(jsonnodesandlinks)
 

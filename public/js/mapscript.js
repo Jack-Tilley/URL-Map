@@ -1,4 +1,3 @@
-
 var colors = d3.scaleOrdinal(d3.schemeCategory10);
 
 var svg = d3.select("svg"),
@@ -30,7 +29,7 @@ var jsonfile = "public/json_files/JSONOUTPUT.json"
 d3.json(jsonfile, function (error, graph) { // collects info via json
     if (error) throw error; // if we get an error here, we cannot read the json file
     // bc our directory did not update to include that jsonfile
-    update(graph.links, graph.nodes);
+    update(graph.links, graph.nodes, graph.exectime);
 })
 
 function update(links, nodes) { // updates what the svg looks like
@@ -103,6 +102,7 @@ function update(links, nodes) { // updates what the svg looks like
 
     simulation.force("link")
         .links(links);
+
 }
 
 function ticked() {

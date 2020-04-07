@@ -45,7 +45,7 @@ with open('nodesandlinks', 'w', encoding='utf-8') as f:
 # print(jsonnodesandlinks)
 
 end = time.perf_counter()
-print(round(end - start, 2))
+t = url_map.get_time(start, end)
 
 # draws the map in python
 # print(map1)
