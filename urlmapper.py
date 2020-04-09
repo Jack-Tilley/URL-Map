@@ -13,8 +13,6 @@ import socket
 import time
 
 # a graph containing the links a website has, links in the form of UrlNode
-
-
 class UrlMap:
     def __init__(self, base_url, path, starting_url=None, this_map=None, local_only=None, dynamic_pages=None):
         self.base_url = base_url  # initial url. ex: https://www.youtube.com
@@ -37,10 +35,10 @@ class UrlMap:
         self.explored = {}  # explored for bfs
         self.queue = [self.starting_url]  # queue for bfs
         self.stop_flag = False  # flag that stops while loop
-        self.json_list = []
-        self.json_links_list = []  # holds the links key in json output file
-        self.json_nodes_list = []  # holds the nodes key in json output file
-        self.iter = 0
+        self.adjacency_matrix = [] # adjacency matrix representation of pages
+        self.d3_json_links_list = []  # holds the links key in json output file
+        self.d3_json_nodes_list = [{"id": self.starting_url}]  # holds the nodes key in json output file
+        self.iter = 0 # iteration number for bfs
         # timer
         self.json_time_list = 0
         self.start_time = 0
@@ -88,13 +86,18 @@ class UrlMap:
                 continue
 
             # adds this link to our seen_nodes dict if its not already there
-            self.seen_nodes[new_node_url] = self.seen_nodes.get(
-                new_node_url, 0) + 1
+            # updates node in d3js
+            if self.seen_nodes.get(new_node_url, 0) == 0:
+                self.d3_js_add_node(new_node_url)
+                self.seen_nodes[new_node_url] = 1
+            else:
+                self.seen_nodes[new_node_url] += 1
+            
             #  adds new node to our seen collection, inc times seen
             this_node.update_connections(new_node_url)
             # if we haven't yet seen this url
             if new_node_url not in self.queue and new_node_url not in self.explored:
-                # adds new node to queue to be explored
+                # adds new node to queue to be explore
                 self.queue.append(new_node_url)
 
         # gives the root node its link level
@@ -104,8 +107,10 @@ class UrlMap:
         self.this_map[this_node.curr_url] = this_node.connections
         # adds current node to our explored dictionary
         self.explored[this_node.curr_url] = 1
-        # updates our json output to include this node
-        self.update_json(this_node)
+        # updates our json output to include this node // adjacency
+        self.update_adjacency_matrix(this_node)
+        # updates our json output to include this node // d3js
+        self.update_d3js_json(this_node)
 
     # bfs to find all nodes from the given url
     def create_map(self, total_iterations=None):
@@ -122,7 +127,6 @@ class UrlMap:
         iteration = 0
         while self.queue and iteration != total_iterations:
             current_node_url = self.queue.pop(0)
-            # print(current_node_url)
 
             # check if url has been explored yet
             if self.explored.get(current_node_url, 0) == 0:
@@ -133,39 +137,24 @@ class UrlMap:
         self.end_time = time.perf_counter()
         self.get_time(self.start_time, self.end_time)
 
-        # quick fix for display bug
-        for node_url in self.seen_nodes.keys():
-            json_node = {}
-            json_node["id"] = node_url
-            # this_node.json_node["id"] = this_node.curr_url
-            # this_node.json_node["group"] = this_node.level #  this should return the bfs level
-            self.json_nodes_list.append(json_node)
-
-        # print("done")
-
-    # updates json file with new node
-
-    def update_json(self, this_node):
-        this_node.json["url"] = this_node.curr_url
+    # updates adjacency matrix with new node
+    def update_adjacency_matrix(self, this_node):
+        this_node.adj_mat_json["url"] = this_node.curr_url
         url_links = [{"url_link": key, "times_linked": val}
                      for key, val in this_node.connections.items()]
-        this_node.json["url_links"] = url_links
-        # this_node.json["url_links"] = this_node.connections
-        # this_node.json["files"] = this_node.files
-        # this_node.json["ip"] = this_node.ip
-        # this_node.json["html"] = this_node.html
-        self.json_list.append(this_node.json)
+        this_node.adj_mat_json["url_links"] = url_links
+        # this_node.adj_mat_json["url_links"] = this_node.connections
+        # this_node.adj_mat_json["files"] = this_node.files
+        # this_node.adj_mat_json["ip"] = this_node.ip
+        # this_node.adj_mat_json["html"] = this_node.html
 
-        # MOVE THIS
-        # this_node.json_node["id"] = this_node.curr_url
-        # # this_node.json_node["group"] = this_node.level #  this should return the bfs level
-        # self.json_nodes_list.append(this_node.json_node)
-        # MOVE THIS
+        self.adjacency_matrix.append(this_node.adj_mat_json)
 
+    # updates d3js json with new node
+    def update_d3js_json(self, this_node):
         for key, val in this_node.connections.items():
-            self.json_links_list.append(
+            self.d3_json_links_list.append(
                 {"source": this_node.curr_url, "target": key, "value": val})
-        # self.json_links_list.append(this_node.json_links)
 
     # returns the map we have created
     def get_map(self):
@@ -177,24 +166,30 @@ class UrlMap:
         self.json_time_list = t
         return t
 
+    def d3_js_add_node(self, url):
+        ## maybe encapsulate this part
+        d3_json_node = {"id": url}
+        ## d3_json_node["group"] = # get the bfs level here .bfs_level
+        self.d3_json_nodes_list.append(d3_json_node)
+        ## maybe encapsulate this part
+
+
 # a node containing the links a url contains
 # along with other data it might have
-
-
 class UrlNode:
     # class variables
     dynamically_generated = False
     dyna_path = None
     base_url = None
 
-    def __init__(self, curr_url, html=None, ip="", files=[], bfs_level=0, link_level=0):
+    def __init__(self, curr_url, html=None, bfs_level=0, link_level=0):
         self.curr_url = curr_url  # this nodes url
         self.connections = {}  # this nodes outgoing links
-        self.files = files  # the filenames in this nodes html
-        self.ip = ip  # this nodes ip
-        self.json = {}  # this node formatted to json
-        self.json_links = []
-        self.json_node = {}
+        self.files = []  # the filenames in this nodes html
+        self.ip = ""  # this nodes ip
+        self.adj_mat_json = {}  # this node formatted to json for adjacency matrix
+        # self.json_links = [] # this nodes links for d3js
+        # self.json_node = {} # this node for d3js
         self.bfs_level = bfs_level  # level of bfs the node was discovered on
         self.link_level = link_level  # number of links away from base url
         self.html = html if html is not None else self.get_html(
