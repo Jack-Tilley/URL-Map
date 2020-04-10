@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\gunstrings\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\gunstrings\\.nuget\\packages"
-    ]
-  }
-}

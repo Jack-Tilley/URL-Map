@@ -10,6 +10,7 @@ from webscraping_tools import ezScrape
 from bs4 import BeautifulSoup
 import requests
 import socket
+import time
 
 # a graph containing the links a website has, links in the form of UrlNode
 class UrlMap:
@@ -37,6 +38,10 @@ class UrlMap:
         self.json_links_list = [] # holds the links key in json output file
         self.json_nodes_list = [] # holds the nodes key in json output file
         self.iter = 0
+        #timer
+        self.json_time_list = 0
+        self.start = 0
+        self.end = 0
         if self.local_only:
             self.end_url_index = len(base_url) - 1  # helps get the number of "/"
         else:
@@ -101,6 +106,7 @@ class UrlMap:
 
     # bfs to find all nodes from the given url
     def create_map(self, total_iterations=None):
+        self.start = time.perf_counter()
         # set default value of total_iterations
         if total_iterations is None:
             total_iterations = 30
@@ -122,6 +128,8 @@ class UrlMap:
                 ## ATTEMPT TO USE MULTITHREADING HERE
 
             iteration += 1
+        self.end = time.perf_counter()
+        self.get_time(self.start, self.end)
 
         # quick fix for display bug
         for node_url in self.seen_nodes.keys():
@@ -183,6 +191,12 @@ class UrlMap:
     def get_link_level(self, url, base_url_index):
         ending_url = url[base_url_index:]
         return ending_url.count("/")
+
+    # Append the execution time
+    def get_time(self, start, end):
+        t = round(end - start, 2)
+        self.json_time_list = t
+        return t
 
 # a node containing the links a url contains
 # along with other data it might have
