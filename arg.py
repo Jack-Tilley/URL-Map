@@ -57,9 +57,9 @@ def format_json(url_map):
     nodes_and_links = {}
 
     # nodes key in json
-    nlu = url_map.json_nodes_list
+    nlu = url_map.d3_json_nodes_list
     # links key in json
-    llu = url_map.json_links_list
+    llu = url_map.d3_json_links_list
     # time key in json
     tlu = url_map.json_time_list
 
@@ -85,8 +85,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-# print(jsonnodesandlinks)
-
-# end = time.perf_counter()
-# print(url_map.url_map)
 
