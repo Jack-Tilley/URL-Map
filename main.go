@@ -10,6 +10,7 @@ import (
 	"os/exec"
 )
 
+// struct for variables that we submit from our form
 type postVars struct {
 	URL      string
 	MaxNodes int64
@@ -17,49 +18,34 @@ type postVars struct {
 }
 
 func main() {
+	// creates the file server for our website
 	fs := http.FileServer(http.Dir("public"))
+	// serves all files in the file server
 	http.Handle("/public/", http.StripPrefix("/public/", fs))
 	http.HandleFunc("/map", mmap)
 
-	////
-	// fs := http.FileServer(http.Dir("public"))
-	// http.Handle("/", fs)
-	////
 	fmt.Println("Listening...")
+	// serves the application on the designated port
 	err := http.ListenAndServe(GetPort(), nil)
 	if err != nil {
 		log.Fatal("ListenAndServe: ", err)
 		return
 	}
 }
+
+// displays map.html, updates when user submits form
 func mmap(w http.ResponseWriter, req *http.Request) {
 	if req.Method == http.MethodPost {
 		fmt.Println("submission attempt...")
 
+		// collect values from form
 		postURL := req.FormValue("url")
 		postMaxNodes := req.FormValue("maxnodes")
 		postDynamic := req.FormValue("dynamic")
-		// postMaxNodes, err := strconv.ParseInt(
-		// 	req.FormValue("maxnodes"), 10, 64)
-		// if err != nil {
-		// 	log.Println(err)
-		// }
-		// postDynamic, err := strconv.ParseBool(
-		// 	req.FormValue("dynamic"))
-		// if err != nil {
-		// 	log.Println(err)
-		// }
 
-		// pyvars := postVars{
-		// 	URL:      postURL,
-		// 	MaxNodes: postMaxNodes,
-		// 	Dynamic:  postDynamic,
-		// }
-
-		// fmt.Println(pyvars)
+		// send data to python script
 		sendData(postURL, postMaxNodes, postDynamic)
 	}
-	// fmt.Fprintf(w, "map is this")
 	http.ServeFile(w, req, "./public/map.html")
 	fmt.Println("we are at map page")
 }
@@ -75,6 +61,7 @@ func GetPort() string {
 	return ":" + port
 }
 
+// sends data to python script
 func sendData(url string, maxnodes string, dynamic string) {
 	cmd := exec.Command("python", "./arg.py", "--url", url, "--mn", maxnodes, "--dy", dynamic)
 
@@ -96,6 +83,7 @@ func sendData(url string, maxnodes string, dynamic string) {
 	cmd.Wait()
 }
 
+// collects printed output from python script
 func copyOutput(r io.Reader) {
 	scanner := bufio.NewScanner(r)
 	for scanner.Scan() {
