@@ -27,11 +27,13 @@ url_map.create_map()
 #     json.dump(site_map_json, f, ensure_ascii=False, indent=4)
 
 # gets data and formats it so d3.js can read it properly
-llu = url_map.json_links_list
-nlu = url_map.json_nodes_list
+llu = url_map.d3_json_links_list
+nlu = url_map.d3_json_nodes_list
+tlu = url_map.json_time
 nodes_and_links = {}
 nodes_and_links["nodes"] = nlu
 nodes_and_links["links"] = llu
+nodes_and_links["exectime"] = tlu
 # print(nodes_and_links)
 
 # dumps the properly formatted json data to file

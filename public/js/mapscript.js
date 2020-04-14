@@ -93,9 +93,11 @@ function update(links, nodes) { // updates what the svg looks like
     node.append("title")
         .text(function (d) {return d.id;});
 
+    /*    
     node.append("text")
         .attr("dy", -3)
         .text(function (d) {return d.id;});
+    */
 
     simulation
         .nodes(nodes)

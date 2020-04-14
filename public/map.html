@@ -44,35 +44,31 @@
                 </div>
                 <div>
                     <label for="dyn">Dynamic</label>
-                    <select name="dynamic" id="dyn" required>
+                    <select id="dyn" required>
                         <option value="False">False</option>
                         <option value="True">True</option>
                     </select>
                 </div> 
-                <div>
-                    <label for="dtype">Choose a display type:</label>
-                    <select id="dtype">
-                        <option value="network">Network</option>
-                        <option value="tree">Tree</option>
-                    </select>
-                </div>
+
+                <label for="dtype">Choose a display type:</label>
+                <select id="dtype">
+                <option value="network">Network</option>
+                <option value="tree">Tree</option>
+                </select>
 
                 <input type="submit">
             
             </form>
-
-
-        
-
+            Execution Time: <button type="submit" onclick="showTime('/public/json_files/JSONOUTPUT.json')">show</button>
+            <div><p id="time"></p></div>
         </div>
                  
 
         <div class="grid-item" id="graphdisplay">
             <div class="container">
-                <svg class="svg" width=800 height=600></svg>
+                <svg class="svg" width=1000 height=800></svg>
             </div>
         </div>
-
         <div class="grid-item" id="footer">
             <div>
                 Display json output: 
@@ -86,6 +82,7 @@
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/d3-selection-multi.v1.js"></script>
     <script type="text/javascript" src="./public/js/mapscript.js"></script>
+    <script type="text/javascript" src="./public/js/timer.js"></script>
     <script type="text/javascript" src="./public/js/collaspeTree.js"></script>
 
 </body>

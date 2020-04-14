@@ -61,7 +61,7 @@ def format_json(url_map):
     # links key in json
     llu = url_map.d3_json_links_list
     # time key in json
-    tlu = url_map.json_time_list
+    tlu = url_map.json_time
 
     nodes_and_links["nodes"] = nlu
     nodes_and_links["links"] = llu

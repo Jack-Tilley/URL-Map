@@ -40,7 +40,7 @@ class UrlMap:
         self.d3_json_nodes_list = [{"id": self.starting_url}]  # holds the nodes key in json output file
         self.iter = 0 # iteration number for bfs
         # timer
-        self.json_time_list = 0
+        self.json_time = 0
         self.start_time = 0
         self.end_time = 0
         if self.local_only:
@@ -161,9 +161,9 @@ class UrlMap:
         return self.this_map
 
     # Append the execution time
-    def get_time(self, start_time, end_time):
-        t = round(end_time - start_time, 2)
-        self.json_time_list = t
+    def get_time(self, start, end):
+        t = round(end - start, 2)
+        self.json_time = t
         return t
 
     def d3_js_add_node(self, url):
