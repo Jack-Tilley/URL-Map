@@ -1,208 +1,199 @@
 {
     "nodes": [
         {
-            "id": "https://sjrfire.com"
+            "id": "https://www.google.com/"
         },
         {
-            "id": "https://sjrfire.com/"
+            "id": "https://www.google.com//preferences?hl=ja"
         },
         {
-            "id": "https://sjrfire.com/contact"
+            "id": "https://www.google.com//advanced_search?hl=ja&authuser=0"
         },
         {
-            "id": "https://sjrfire.com/about"
+            "id": "https://www.google.com//intl/ja/ads/"
         },
         {
-            "id": "https://sjrfire.com/gallery"
+            "id": "https://www.google.com//intl/ja/about.html"
         },
         {
-            "id": "https://sjrfire.com/services"
+            "id": "https://www.google.com//intl/ja/policies/privacy/"
         },
         {
-            "id": "https://sjrfire.com/cdn-cgi/l/email-protection"
+            "id": "https://www.google.com//intl/ja/policies/terms/"
+        },
+        {
+            "id": "https://www.google.com//webhp?tab=ww"
+        },
+        {
+            "id": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja"
+        },
+        {
+            "id": "https://www.google.com///support.google.com/websearch?p=ws_settings_safesearch&hl=ja"
+        },
+        {
+            "id": "https://www.google.com//history/optout?hl=ja"
+        },
+        {
+            "id": "https://www.google.com///support.google.com/accounts/answer/61416?hl=ja"
+        },
+        {
+            "id": "https://www.google.com//url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dja%26fg%3D1&sa=U&ved=0ahUKEwjalcfGnujoAhWjL6YKHR3bBS4Q8KwCCAI&usg=AOvVaw1RIMvcr150KOZoXeYg5FU-"
+        },
+        {
+            "id": "https://www.google.com//url?q=https://policies.google.com/privacy%3Ffg%3D1&sa=U&ved=0ahUKEwjalcfGnujoAhWjL6YKHR3bBS4Q8awCCAM&usg=AOvVaw1jU024R7kwFS_l3d4cMhUK"
+        },
+        {
+            "id": "https://www.google.com//url?q=https://policies.google.com/terms%3Ffg%3D1&sa=U&ved=0ahUKEwjalcfGnujoAhWjL6YKHR3bBS4Q8qwCCAQ&usg=AOvVaw30T6oHRker132jknAY9JG0"
+        },
+        {
+            "id": "https://www.google.com//?hl=ja"
+        },
+        {
+            "id": "https://www.google.com///support.google.com/websearch?p=adv_safesearch&hl=ja"
+        },
+        {
+            "id": "https://www.google.com///support.google.com/websearch?p=ws_images_usagerights&hl=ja"
+        },
+        {
+            "id": "https://www.google.com///support.google.com/websearch?p=adv_pages_similar&hl=ja"
+        },
+        {
+            "id": "https://www.google.com///support.google.com/websearch?p=adv_pages_visited&hl=ja"
+        },
+        {
+            "id": "https://www.google.com///support.google.com/websearch?p=adv_operators&hl=ja"
+        },
+        {
+            "id": "https://www.google.com//url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dja%26fg%3D1&sa=U&ved=0ahUKEwjbg9jGnujoAhVuFqYKHSV7DBAQ8KwCCAE&usg=AOvVaw2inprRvgyLej2M6-OmJxfp"
+        },
+        {
+            "id": "https://www.google.com//url?q=https://policies.google.com/privacy%3Ffg%3D1&sa=U&ved=0ahUKEwjbg9jGnujoAhVuFqYKHSV7DBAQ8awCCAI&usg=AOvVaw1i0VCFlI08tpvaRlb2aygS"
+        },
+        {
+            "id": "https://www.google.com//url?q=https://policies.google.com/terms%3Ffg%3D1&sa=U&ved=0ahUKEwjbg9jGnujoAhVuFqYKHSV7DBAQ8qwCCAM&usg=AOvVaw1bNnIMw5pHrSGPwa3FoEfq"
         }
     ],
     "links": [
         {
-            "source": "https://sjrfire.com",
-            "target": "https://sjrfire.com/",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com",
-            "target": "https://sjrfire.com/contact",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com",
-            "target": "https://sjrfire.com/about",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com",
-            "target": "https://sjrfire.com/gallery",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com",
-            "target": "https://sjrfire.com/services",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com",
-            "target": "https://sjrfire.com/cdn-cgi/l/email-protection",
+            "source": "https://www.google.com/",
+            "target": "https://www.google.com//preferences?hl=ja",
             "value": 1
         },
         {
-            "source": "https://sjrfire.com/",
-            "target": "https://sjrfire.com/",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/",
-            "target": "https://sjrfire.com/contact",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/",
-            "target": "https://sjrfire.com/about",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/",
-            "target": "https://sjrfire.com/gallery",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/",
-            "target": "https://sjrfire.com/services",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/",
-            "target": "https://sjrfire.com/cdn-cgi/l/email-protection",
+            "source": "https://www.google.com/",
+            "target": "https://www.google.com//advanced_search?hl=ja&authuser=0",
             "value": 1
         },
         {
-            "source": "https://sjrfire.com/contact",
-            "target": "https://sjrfire.com/",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/contact",
-            "target": "https://sjrfire.com/contact",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/contact",
-            "target": "https://sjrfire.com/about",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/contact",
-            "target": "https://sjrfire.com/gallery",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/contact",
-            "target": "https://sjrfire.com/services",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/contact",
-            "target": "https://sjrfire.com/cdn-cgi/l/email-protection",
+            "source": "https://www.google.com/",
+            "target": "https://www.google.com//intl/ja/ads/",
             "value": 1
         },
         {
-            "source": "https://sjrfire.com/about",
-            "target": "https://sjrfire.com/",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/about",
-            "target": "https://sjrfire.com/contact",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/about",
-            "target": "https://sjrfire.com/about",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/about",
-            "target": "https://sjrfire.com/gallery",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/about",
-            "target": "https://sjrfire.com/services",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/about",
-            "target": "https://sjrfire.com/cdn-cgi/l/email-protection",
+            "source": "https://www.google.com/",
+            "target": "https://www.google.com//intl/ja/about.html",
             "value": 1
         },
         {
-            "source": "https://sjrfire.com/gallery",
-            "target": "https://sjrfire.com/",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/gallery",
-            "target": "https://sjrfire.com/contact",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/gallery",
-            "target": "https://sjrfire.com/about",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/gallery",
-            "target": "https://sjrfire.com/gallery",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/gallery",
-            "target": "https://sjrfire.com/services",
-            "value": 2
-        },
-        {
-            "source": "https://sjrfire.com/gallery",
-            "target": "https://sjrfire.com/cdn-cgi/l/email-protection",
+            "source": "https://www.google.com/",
+            "target": "https://www.google.com//intl/ja/policies/privacy/",
             "value": 1
         },
         {
-            "source": "https://sjrfire.com/services",
-            "target": "https://sjrfire.com/",
+            "source": "https://www.google.com/",
+            "target": "https://www.google.com//intl/ja/policies/terms/",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com//webhp?tab=ww",
             "value": 2
         },
         {
-            "source": "https://sjrfire.com/services",
-            "target": "https://sjrfire.com/contact",
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com///support.google.com/websearch?p=ws_settings_safesearch&hl=ja",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com//history/optout?hl=ja",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com///support.google.com/accounts/answer/61416?hl=ja",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com//url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dja%26fg%3D1&sa=U&ved=0ahUKEwjalcfGnujoAhWjL6YKHR3bBS4Q8KwCCAI&usg=AOvVaw1RIMvcr150KOZoXeYg5FU-",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com//url?q=https://policies.google.com/privacy%3Ffg%3D1&sa=U&ved=0ahUKEwjalcfGnujoAhWjL6YKHR3bBS4Q8awCCAM&usg=AOvVaw1jU024R7kwFS_l3d4cMhUK",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com//url?q=https://policies.google.com/terms%3Ffg%3D1&sa=U&ved=0ahUKEwjalcfGnujoAhWjL6YKHR3bBS4Q8qwCCAQ&usg=AOvVaw30T6oHRker132jknAY9JG0",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com//preferences?hl=ja",
             "value": 2
         },
         {
-            "source": "https://sjrfire.com/services",
-            "target": "https://sjrfire.com/about",
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com//?hl=ja",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com///support.google.com/websearch?p=adv_safesearch&hl=ja",
             "value": 2
         },
         {
-            "source": "https://sjrfire.com/services",
-            "target": "https://sjrfire.com/gallery",
-            "value": 2
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com///support.google.com/websearch?p=ws_images_usagerights&hl=ja",
+            "value": 1
         },
         {
-            "source": "https://sjrfire.com/services",
-            "target": "https://sjrfire.com/services",
-            "value": 2
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com///support.google.com/websearch?p=adv_pages_similar&hl=ja",
+            "value": 1
         },
         {
-            "source": "https://sjrfire.com/services",
-            "target": "https://sjrfire.com/cdn-cgi/l/email-protection",
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com///support.google.com/websearch?p=adv_pages_visited&hl=ja",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com///support.google.com/websearch?p=adv_operators&hl=ja",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com//url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dja%26fg%3D1&sa=U&ved=0ahUKEwjbg9jGnujoAhVuFqYKHSV7DBAQ8KwCCAE&usg=AOvVaw2inprRvgyLej2M6-OmJxfp",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com//url?q=https://policies.google.com/privacy%3Ffg%3D1&sa=U&ved=0ahUKEwjbg9jGnujoAhVuFqYKHSV7DBAQ8awCCAI&usg=AOvVaw1i0VCFlI08tpvaRlb2aygS",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com//url?q=https://policies.google.com/terms%3Ffg%3D1&sa=U&ved=0ahUKEwjbg9jGnujoAhVuFqYKHSV7DBAQ8qwCCAM&usg=AOvVaw1bNnIMw5pHrSGPwa3FoEfq",
             "value": 1
         }
     ],
-    "exectime": 0.46
+    "exectime": 1.23
 }
