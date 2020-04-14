@@ -2,8 +2,15 @@
 <html lang="en">
 
 <head>
+
+     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>UrlMap</title>
+</head>
+
+
     <link rel="stylesheet" href="./public/stylesheets/layout.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/minty/bootstrap.min.css">
     <title>UrlMap</title>
@@ -29,22 +36,33 @@
             <form action="/map" method="post">
                 <div>
                     <label for="url">URL</label>
-                    <input type="text" name="url" id="url">
+                    <input type="url" name="url" id="url" required>
                 </div>
                 <div>
                     <label for="mxn">Max Nodes</label>
-                    <input type="text" name="maxnodes" id="mxn">
+                    <input type="number" name="maxnodes" id="mxn" required>
                 </div>
                 <div>
                     <label for="dyn">Dynamic</label>
-                    <select name="dynamic" id="dyn">
-                        <option value="False">False</option>
-                        <option value="True">True</option>
-                    </select>
+                    <input type="text" name="dynamic" id="dyn" required>
+
                 </div> 
+
+                <label for="dtype">Choose a display type:</label>
+                <select id="dtype">
+                <option value="network">Network</option>
+                <option value="tree">Tree</option>
+                </select>
+
                 <input type="submit">
+            
             </form>
+
+
+        
+
         </div>
+                 
 
         <div class="grid-item" id="graphdisplay">
             <div class="container">
@@ -61,8 +79,11 @@
         </div>
     </div>
 
+    <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/d3-selection-multi.v1.js"></script>
     <script type="text/javascript" src="./public/js/mapscript.js"></script>
+    <script type="text/javascript" src="./public/js/collaspeTree.js"></script>
+
 </body>
 </html>
