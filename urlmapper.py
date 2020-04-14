@@ -164,6 +164,7 @@ class UrlMap:
     def get_time(self, start_time, end_time):
         t = round(end_time - start_time, 2)
         self.json_time_list = t
+        
         return t
 
     def d3_js_add_node(self, url):

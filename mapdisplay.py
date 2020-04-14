@@ -15,8 +15,13 @@ myurlstart = "https://sjrfire.com"
 
 
 # creates our UrlMap object
+
 url_map = UrlMap(myurl, mypath, myurlstart, dynamic_pages=False)
 url_map.create_map()
+
+
+
+
 
 # site_mapping = url_map.get_map()
 # site_map_json_list = url_map.json_list
