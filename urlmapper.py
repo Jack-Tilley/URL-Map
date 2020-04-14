@@ -39,7 +39,7 @@ class UrlMap:
         self.json_nodes_list = [] # holds the nodes key in json output file
         self.iter = 0
         #timer
-        self.json_time_list = 0
+        self.json_time = 0 # holds the time key in json output file 
         self.start = 0
         self.end = 0
         if self.local_only:
@@ -195,7 +195,7 @@ class UrlMap:
     # Append the execution time
     def get_time(self, start, end):
         t = round(end - start, 2)
-        self.json_time_list = t
+        self.json_time = t
         return t
 
 # a node containing the links a url contains
