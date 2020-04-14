@@ -148,8 +148,8 @@ dmypy.json
 obj/
 [Rr]elease*/
 _ReSharper*/
-bin/
-Bin/
+/bin/
+/Bin/
 
 # idek what types of files these are
 .cs

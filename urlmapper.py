@@ -174,6 +174,28 @@ class UrlMap:
         ## maybe encapsulate this part
 
 
+
+
+    #def option_save_html(self, url):
+        #this_node = UrlNode(url)
+        #soup = BeautifulSoup(this_node.html, "html.parser")
+        #links = soup.find_all("a")
+
+        #for x in links:
+            #x = requests.get(url)
+            #with open("file.txt", 'a') as file:
+                #file.write(x.text)
+    
+        #def option_save_html(self, url):
+        #for x in sequence of UrlNodes
+        #x= self.html.UrlNode
+        #with open("file.txt", 'a') as file:
+            #file.write(x.text)
+
+
+
+
+
 # a node containing the links a url contains
 # along with other data it might have
 class UrlNode:
@@ -218,4 +240,6 @@ class UrlNode:
 
     def update_connections(self, new_node_url):
         self.connections[new_node_url] = self.connections.get(new_node_url, 0) + 1
+
+
 

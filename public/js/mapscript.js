@@ -1,3 +1,4 @@
+//mapscript
 var colors = d3.scaleOrdinal(d3.schemeCategory10);
 
 var svg = d3.select("svg"),
@@ -104,7 +105,6 @@ function update(links, nodes) { // updates what the svg looks like
 
     simulation.force("link")
         .links(links);
-
 }
 
 function ticked() {
