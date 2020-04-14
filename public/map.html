@@ -44,19 +44,22 @@
                 </div>
                 <div>
                     <label for="dyn">Dynamic</label>
-                    <select id="dyn" required>
+                    <select id="dyn" name="dynamic" required>
                         <option value="False">False</option>
                         <option value="True">True</option>
                     </select>
+                </div>
+
+                <div>
+                    <label for="dtype">Choose a display type:</label>
+                    <select id="dtype">
+                        <option value="network">Network</option>
+                        <option value="tree">Tree</option>
+                    </select>
                 </div> 
 
-                <label for="dtype">Choose a display type:</label>
-                <select id="dtype">
-                <option value="network">Network</option>
-                <option value="tree">Tree</option>
-                </select>
-
                 <input type="submit">
+                
             
             </form>
             Execution Time: <button type="submit" onclick="showTime('/public/json_files/JSONOUTPUT.json')">show</button>
@@ -66,7 +69,7 @@
 
         <div class="grid-item" id="graphdisplay">
             <div class="container">
-                <svg class="svg" width=1000 height=800></svg>
+                <svg class="svg" width=800 height=600></svg>
             </div>
         </div>
         <div class="grid-item" id="footer">
