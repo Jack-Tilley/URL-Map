@@ -44,15 +44,18 @@
                 </div>
                 <div>
                     <label for="dyn">Dynamic</label>
-                    <input type="text" name="dynamic" id="dyn" required>
-
+                    <select name="dynamic" id="dyn" required>
+                        <option value="False">False</option>
+                        <option value="True">True</option>
+                    </select>
                 </div> 
-
-                <label for="dtype">Choose a display type:</label>
-                <select id="dtype">
-                <option value="network">Network</option>
-                <option value="tree">Tree</option>
-                </select>
+                <div>
+                    <label for="dtype">Choose a display type:</label>
+                    <select id="dtype">
+                        <option value="network">Network</option>
+                        <option value="tree">Tree</option>
+                    </select>
+                </div>
 
                 <input type="submit">
             
