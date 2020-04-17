@@ -89,6 +89,7 @@ function update(links, nodes) { // updates what the svg looks like
     node.append("circle")
         .attr("r", 5)
         .style("fill", function (d, i) {return colors(i);})
+        .on("click", function(d){window.open(d.id)})
 
     node.append("title")
         .text(function (d) {return d.id;});

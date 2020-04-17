@@ -56,6 +56,14 @@
                 <input type="submit">
 
             </form>
+
+            <div>
+                <label for="surl">Search Bar</label>
+                <input type="search" name="searchBar" id="surl">
+                <button type="search" onclick="searchURL('/public/json_files/JSONOUTPUT.json', surl)" >search</button>
+                <div><p id="search_result"></p></div>
+            </div>
+
             Execution Time: <button type="submit" onclick="showTime('/public/json_files/JSONOUTPUT.json')">show</button>
             <div><p id="time"></p></div>
         </div>
@@ -80,6 +88,7 @@
     <script src="https://d3js.org/d3-selection-multi.v1.js"></script>
     <script type="text/javascript" src="./public/js/mapscript.js"></script>
     <script type="text/javascript" src="./public/js/timer.js"></script>
+    <script type="text/javascript" src="./public/js/search.js"></script>
     <script type="text/javascript" src="./public/js/collaspeTree.js"></script>
 
 </body>
