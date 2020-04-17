@@ -6,6 +6,9 @@ function showTime(filepath){
             var myObj = JSON.parse(this.responseText);
             document.getElementById("time").innerHTML = myObj.exectime + " seconds";
         }
+        else{
+            document.getElementById("time").innerHTML = "Error occurred during the innternal process"
+        }
     };
     xmlhttp.open("GET", filepath, true);
     xmlhttp.send();
