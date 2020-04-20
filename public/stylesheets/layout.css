@@ -17,6 +17,10 @@ html, body{
     border: solid #878787;
 }
 
+#content{
+    height: 100%;
+    padding: 10px;
+}
 #header {
     text-align: center;
     position: fixed;
