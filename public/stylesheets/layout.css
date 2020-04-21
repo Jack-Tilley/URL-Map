@@ -5,22 +5,20 @@ html, body{
 	padding: 0;
 	color: rgb(139, 1, 139);
 }
-
 .grid-container {
     height: 100%;
     width: 100%;
     margin: 0;
     padding: 0;;
 }
-
 .grid-item {
     background: #eee;
     border: solid #878787;
 }
-
 #content{
     height: 100%;
-    padding: 10px;
+	padding-top: 62px;
+	padding-bottom: 36px;
 }
 #header {
     text-align: center;
@@ -29,9 +27,7 @@ html, body{
     left: 0px;
     width: 100%;
 	z-index: 1;
-
 }
-
 #menu{
 	width: 35px;
 	height: 30px;
@@ -46,14 +42,12 @@ html, body{
 	border-radius: 5px;
 	transition: 0.3s ease;
 }
-
 #bar1{
 	transform: translateY(-4px);
 }
 #bar3{
 	transform: translateY(4px);
 }
-
 .nav li a{
 	color: #fff;
 	text-decoration: none;
@@ -63,13 +57,15 @@ html, body{
 }
 .nav li{
 	list-style: none;
-	padding: 16px 0;
+	padding: 16px;
+	font-size: 28px;
 }
 .nav{
 	padding: 0;
 	margin: 0 20px;
 	transition: 0.3s ease;
 	display: none;
+	padding-top: 30px;
 }
 .menu-bg, #menu-bar{
 	top: 0;
@@ -77,17 +73,13 @@ html, body{
 	position: absolute;
 }
 .menu-bg{
-	z-index: 1;
 	width: 0;
 	height: 0;
 	margin: 30px 0 20px 20px;
 	background: linear-gradient(-45deg, #EE7752,#E73C7E, rgb(115, 5, 166), #2305AB);
 	border-radius: 85%;
 	transition: 0.3s ease;
-	
 }
-
-
 #menu-bar{
 	z-index: 2;	
 }
@@ -98,6 +90,7 @@ html, body{
 }
 .change #bar1{
 	transform: translateY(4px) rotateZ(-45deg);
+
 }
 .change #bar3{
 	transform: translateY(-6px) rotate(45deg);
@@ -108,29 +101,19 @@ html, body{
 .change{
 	display: block;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .change .bar{
 	background-color: white;
 }
 .change #bar1{
 	transform: translateY(4px) rotateZ(-45deg);
+	background-color: #154eb8;;
+}
+.change #bar2{
+	background-color: #154eb8;
 }
 .change #bar3{
 	transform: translateY(-6px) rotate(45deg);
+	background-color: #154eb8;
 }
 .change #bar2{
 	opacity: 50;
@@ -138,31 +121,18 @@ html, body{
 .change{
 	display: block;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 #forms {
     float: left;
     height: 100%;
-    padding: 10px;
+	padding-top: 62px;
+    padding-bottom: 36px;
 }
-
 #graphdisplay{
     float: left;
     position: relative;
-    width: auto;
+	width: auto;
+	padding-top: 58px;
 }
-
 #footer {
     text-align: center;
     position: fixed;
@@ -171,21 +141,17 @@ html, body{
     width: 100%;
     z-index: 1;
 }
-
 .link { stroke: rgb(46, 41, 41); stroke-opacity: .6; stroke-width: 1px; }
-
 .container {
     position: relative;
     display: block;
-	background-color: #b81568;
+	background-color: rgb(14, 85, 12);
 
 }
-
 .svg{
     /* align-items: center; */
     /* position: absolute; */
     /* display: block;
     margin: inline; */
-	background-color:rgb(139, 1, 139);
-    
+	background-color:#e6e2b0;
 }
