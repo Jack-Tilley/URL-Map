@@ -1,1922 +1,208 @@
 {
     "nodes": [
         {
-            "id": "https://www.temple.edu/"
+            "id": "https://sjrfire.com/"
         },
         {
-            "id": "https://www.temple.edu//"
+            "id": "https://sjrfire.com//"
         },
         {
-            "id": "https://www.temple.edu//admissions"
+            "id": "https://sjrfire.com//contact"
         },
         {
-            "id": "https://www.temple.edu//admissions/undergraduate"
+            "id": "https://sjrfire.com//about"
         },
         {
-            "id": "https://www.temple.edu//admissions/graduate-professional"
+            "id": "https://sjrfire.com//gallery"
         },
         {
-            "id": "https://www.temple.edu//admissions/international-admissions"
+            "id": "https://sjrfire.com//services"
         },
         {
-            "id": "https://www.temple.edu//admissions/tuition-fees"
-        },
-        {
-            "id": "https://www.temple.edu//admissions/financial-aid"
-        },
-        {
-            "id": "https://www.temple.edu//academics"
-        },
-        {
-            "id": "https://www.temple.edu//academics/degree-programs"
-        },
-        {
-            "id": "https://www.temple.edu//academics/schools-and-colleges"
-        },
-        {
-            "id": "https://www.temple.edu//academics/accelerated-programs"
-        },
-        {
-            "id": "https://www.temple.edu//academics/campuses"
-        },
-        {
-            "id": "https://www.temple.edu//academics/honors-program"
-        },
-        {
-            "id": "https://www.temple.edu//academics/continuing-education-summer-sessions"
-        },
-        {
-            "id": "https://www.temple.edu//academics/international-study"
-        },
-        {
-            "id": "https://www.temple.edu//academics/courses-schedules"
-        },
-        {
-            "id": "https://www.temple.edu//academics/dual-degree-programs"
-        },
-        {
-            "id": "https://www.temple.edu//about/libraries"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/arts-culture"
-        },
-        {
-            "id": "https://www.temple.edu//life-temple/virtual-life"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/clubs-organizations"
-        },
-        {
-            "id": "https://www.temple.edu//life-temple/diversity-inclusion"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/housing-dining"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/health-wellness"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/city-life"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/visiting-temple"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/faqs"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/sustainability-safety"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/temple-food-trucks"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/tobacco-free-temple"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/welcome-week"
-        },
-        {
-            "id": "https://www.temple.edu//research"
-        },
-        {
-            "id": "https://www.temple.edu//temple-research/centers-institutes"
-        },
-        {
-            "id": "https://www.temple.edu//temple-research/research-divisions"
-        },
-        {
-            "id": "https://www.temple.edu//temple-research/faculty-research-news"
-        },
-        {
-            "id": "https://www.temple.edu//temple-research/grants-funding"
-        },
-        {
-            "id": "https://www.temple.edu//temple-research/clinical-trials"
-        },
-        {
-            "id": "https://www.temple.edu//temple-research/technology-development"
-        },
-        {
-            "id": "https://www.temple.edu//athletics"
-        },
-        {
-            "id": "https://www.temple.edu//athletics/varsity-sports"
-        },
-        {
-            "id": "https://www.temple.edu//athletics/tickets"
-        },
-        {
-            "id": "https://www.temple.edu//athletics/stella-owl"
-        },
-        {
-            "id": "https://www.temple.edu//about"
-        },
-        {
-            "id": "https://www.temple.edu//about/board-trustees"
-        },
-        {
-            "id": "https://www.temple.edu//about/president"
-        },
-        {
-            "id": "https://www.temple.edu//about/history-traditions"
-        },
-        {
-            "id": "https://www.temple.edu//about/temple-health"
-        },
-        {
-            "id": "https://www.temple.edu//about/news-media"
-        },
-        {
-            "id": "https://www.temple.edu//about/offices"
-        },
-        {
-            "id": "https://www.temple.edu//about/public-information"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff"
-        },
-        {
-            "id": "https://www.temple.edu//about/campus-development"
-        },
-        {
-            "id": "https://www.temple.edu//about/internal-audits"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance"
-        },
-        {
-            "id": "https://www.temple.edu//life-temple/diversity-inclusion/preferred-name-use"
-        },
-        {
-            "id": "https://www.temple.edu//life-temple/diversity-inclusion/resources"
-        },
-        {
-            "id": "https://www.temple.edu//coronavirus"
-        },
-        {
-            "id": "https://www.temple.edu//coronavirus/information-students"
-        },
-        {
-            "id": "https://www.temple.edu//coronavirus/campus-communication"
-        },
-        {
-            "id": "https://www.temple.edu//coronavirus/campus-events"
-        },
-        {
-            "id": "https://www.temple.edu//coronavirus/faculty-and-staff-resources"
-        },
-        {
-            "id": "https://www.temple.edu//coronavirus/international-campuses-and-programs"
-        },
-        {
-            "id": "https://www.temple.edu//coronavirus/staying-healthy"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/city-life/philadelphia"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/visiting-temple/accommodations"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/visiting-temple/dining-options"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/visiting-temple/religious-services-information"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/arts-and-culture"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/clubs-and-organizations"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/housing-dining-and-owlcards"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/parking-and-transportation"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/safety"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/student-banking"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/student-centers"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/wireless-computers-and-phone"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/academics"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/academics/advising-and-academic-support"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/academics/courses-and-calendars"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/academics/international-students"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/academics/libraries"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/academics/registration-grades-and-books"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/academics/schools-and-colleges"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/health-and-wellness"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/health-and-wellness/athletics-and-fitness"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/health-and-wellness/health-and-counseling"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/tuition-and-financial-aid"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/tuition-and-financial-aid/financial-aid"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/tuition-and-financial-aid/tuition-and-billing"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/careers-and-internships"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/careers-and-internships/career-center"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/careers-and-internships/internships"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/students/careers-and-internships/student-jobs"
-        },
-        {
-            "id": "https://www.temple.edu//life-at-temple/welcome-week/convocation"
-        },
-        {
-            "id": "https://www.temple.edu//about/president/university-officers-and-presidents-advisors"
-        },
-        {
-            "id": "https://www.temple.edu//about/president/past-presidents"
-        },
-        {
-            "id": "https://www.temple.edu//about/president/2019-state-university"
-        },
-        {
-            "id": "https://www.temple.edu//about/history-traditions/russell-conwell"
-        },
-        {
-            "id": "https://www.temple.edu//about/history-traditions/temple-traditions"
-        },
-        {
-            "id": "https://www.temple.edu//about/history-traditions/acres-diamonds"
-        },
-        {
-            "id": "https://www.temple.edu//about/history-traditions/honorary-degrees"
-        },
-        {
-            "id": "https://www.temple.edu//about/history-traditions/honorary-degrees/past-honorary-degree-recipients"
-        },
-        {
-            "id": "https://www.temple.edu//about/news-media/media-mentions"
-        },
-        {
-            "id": "https://www.temple.edu//about/news-media/temple-university-wallpapers"
-        },
-        {
-            "id": "https://www.temple.edu//about/news-media/contact-members-strategic-marketing-and-communications"
-        },
-        {
-            "id": "https://www.temple.edu//about/public-information/facts-about-temple"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/working-at-temple"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/working-at-temple/calendars-and-time"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/working-at-temple/calendars-and-time/holiday-schedule"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/working-at-temple/careers-at-temple"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/working-at-temple/human-resources"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/working-at-temple/performance-and-training"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/catering-exception-policy"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/catering-exception-policy/double-tree-catering-conferences"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/contact"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/frequently-asked-questions"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/corporate-responsibility"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/logo-and-graphics-guide"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/guidelines-trademark-use"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/student-faculty-and-staff-guide"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/becoming-licensed"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/trademark-and-licensing-faq"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/where-buy-temple-gear"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/automobile-rental"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/club-quarters"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/doubletree-hotel"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/hampton-inn"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/hilton-garden-inn"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/hilton-philadelphia-at"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/holiday-inn-express"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff-resources/business-services/university-approved-hotels-car-rentals/loews-hotel"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/sonesta-philadelphia"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/conwell-inn"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/campus-services"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/campus-services/computers-email-and-phones"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/campus-services/conferences-and-meetings"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/campus-services/digital-document-and-postal-services"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/campus-services/facilities-and-space"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/campus-services/id-cards"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/campus-services/parking-and-transportation"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/faculty-resources"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/faculty-resources/calendars-schedules-and-grades"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/faculty-resources/courses-and-curricula"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/faculty-resources/instructional-resources"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/faculty-resources/faculty-senate-and-news"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/finance-and-travel"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/finance-and-travel/accounting-and-budget"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/finance-and-travel/employee-banking-and-finance"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/finance-and-travel/purchasing"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/finance-and-travel/tuition-remission"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/finance-and-travel/travel-and-expenses"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/wellness-and-safety"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/wellness-and-safety/fitness-and-health"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/wellness-and-safety/safety-and-alerts"
-        },
-        {
-            "id": "https://www.temple.edu//about/campus-development/multipurpose-facilitystadium"
-        },
-        {
-            "id": "https://www.temple.edu//about/campus-development/frequently-asked-questions"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance/data-integrity"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance/data-integrity/rankings-data-overview-and-updates"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance/data-integrity/additional-resources"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance/data-integrity/accreditation-faq"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance/helpline"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance/resources"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance/who-we-are"
-        },
-        {
-            "id": "https://www.temple.edu//about/libraries/charles"
+            "id": "https://sjrfire.com//cdn-cgi/l/email-protection"
         }
     ],
     "links": [
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//",
+            "source": "https://sjrfire.com/",
+            "target": "https://sjrfire.com//",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//admissions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//admissions/undergraduate",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//admissions/graduate-professional",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//admissions/international-admissions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//admissions/tuition-fees",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//admissions/financial-aid",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/degree-programs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/schools-and-colleges",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/accelerated-programs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/campuses",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/honors-program",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/continuing-education-summer-sessions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/international-study",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/courses-schedules",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/dual-degree-programs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/libraries",
+            "source": "https://sjrfire.com/",
+            "target": "https://sjrfire.com//contact",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/arts-culture",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-temple/virtual-life",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/clubs-organizations",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-temple/diversity-inclusion",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/housing-dining",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/health-wellness",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/city-life",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/visiting-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/faqs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/sustainability-safety",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/temple-food-trucks",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/students",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/tobacco-free-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/welcome-week",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//research",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//temple-research/centers-institutes",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//temple-research/research-divisions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//temple-research/faculty-research-news",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//temple-research/grants-funding",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//temple-research/clinical-trials",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//temple-research/technology-development",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//athletics",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//athletics/varsity-sports",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//athletics/tickets",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//athletics/stella-owl",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/board-trustees",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/president",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/history-traditions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/temple-health",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/news-media",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/offices",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/public-information",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/faculty-staff",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/campus-development",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/internal-audits",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/ethics-compliance",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//",
+            "source": "https://sjrfire.com/",
+            "target": "https://sjrfire.com//about",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//admissions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//admissions/undergraduate",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//admissions/graduate-professional",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//admissions/international-admissions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//admissions/tuition-fees",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//admissions/financial-aid",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/degree-programs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/schools-and-colleges",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/accelerated-programs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/campuses",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/honors-program",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/continuing-education-summer-sessions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/international-study",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/courses-schedules",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/dual-degree-programs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/libraries",
+            "source": "https://sjrfire.com/",
+            "target": "https://sjrfire.com//gallery",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/arts-culture",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-temple/virtual-life",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/clubs-organizations",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-temple/diversity-inclusion",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/housing-dining",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/health-wellness",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/city-life",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/visiting-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/faqs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/sustainability-safety",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/temple-food-trucks",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/students",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/tobacco-free-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/welcome-week",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//research",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//temple-research/centers-institutes",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//temple-research/research-divisions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//temple-research/faculty-research-news",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//temple-research/grants-funding",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//temple-research/clinical-trials",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//temple-research/technology-development",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//athletics",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//athletics/varsity-sports",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//athletics/tickets",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//athletics/stella-owl",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/board-trustees",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/president",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/history-traditions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/temple-health",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/news-media",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/offices",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/public-information",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/faculty-staff",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/campus-development",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/internal-audits",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/ethics-compliance",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//admissions",
-            "value": 4
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//admissions/undergraduate",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//admissions/graduate-professional",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//admissions/international-admissions",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//admissions/tuition-fees",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//admissions/financial-aid",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/degree-programs",
+            "source": "https://sjrfire.com/",
+            "target": "https://sjrfire.com//services",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/schools-and-colleges",
+            "source": "https://sjrfire.com/",
+            "target": "https://sjrfire.com//cdn-cgi/l/email-protection",
+            "value": 1
+        },
+        {
+            "source": "https://sjrfire.com//",
+            "target": "https://sjrfire.com//",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/accelerated-programs",
+            "source": "https://sjrfire.com//",
+            "target": "https://sjrfire.com//contact",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/campuses",
+            "source": "https://sjrfire.com//",
+            "target": "https://sjrfire.com//about",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/honors-program",
+            "source": "https://sjrfire.com//",
+            "target": "https://sjrfire.com//gallery",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/continuing-education-summer-sessions",
+            "source": "https://sjrfire.com//",
+            "target": "https://sjrfire.com//services",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/international-study",
+            "source": "https://sjrfire.com//",
+            "target": "https://sjrfire.com//cdn-cgi/l/email-protection",
+            "value": 1
+        },
+        {
+            "source": "https://sjrfire.com//contact",
+            "target": "https://sjrfire.com//",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/courses-schedules",
+            "source": "https://sjrfire.com//contact",
+            "target": "https://sjrfire.com//contact",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/dual-degree-programs",
+            "source": "https://sjrfire.com//contact",
+            "target": "https://sjrfire.com//about",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/libraries",
-            "value": 4
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/arts-culture",
+            "source": "https://sjrfire.com//contact",
+            "target": "https://sjrfire.com//gallery",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-temple/virtual-life",
+            "source": "https://sjrfire.com//contact",
+            "target": "https://sjrfire.com//services",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/clubs-organizations",
+            "source": "https://sjrfire.com//contact",
+            "target": "https://sjrfire.com//cdn-cgi/l/email-protection",
+            "value": 1
+        },
+        {
+            "source": "https://sjrfire.com//about",
+            "target": "https://sjrfire.com//",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-temple/diversity-inclusion",
+            "source": "https://sjrfire.com//about",
+            "target": "https://sjrfire.com//contact",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/housing-dining",
+            "source": "https://sjrfire.com//about",
+            "target": "https://sjrfire.com//about",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/health-wellness",
+            "source": "https://sjrfire.com//about",
+            "target": "https://sjrfire.com//gallery",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/city-life",
+            "source": "https://sjrfire.com//about",
+            "target": "https://sjrfire.com//services",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/visiting-temple",
+            "source": "https://sjrfire.com//about",
+            "target": "https://sjrfire.com//cdn-cgi/l/email-protection",
+            "value": 1
+        },
+        {
+            "source": "https://sjrfire.com//gallery",
+            "target": "https://sjrfire.com//",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/faqs",
+            "source": "https://sjrfire.com//gallery",
+            "target": "https://sjrfire.com//contact",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/sustainability-safety",
+            "source": "https://sjrfire.com//gallery",
+            "target": "https://sjrfire.com//about",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/temple-food-trucks",
+            "source": "https://sjrfire.com//gallery",
+            "target": "https://sjrfire.com//gallery",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students",
+            "source": "https://sjrfire.com//gallery",
+            "target": "https://sjrfire.com//services",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/tobacco-free-temple",
+            "source": "https://sjrfire.com//gallery",
+            "target": "https://sjrfire.com//cdn-cgi/l/email-protection",
+            "value": 1
+        },
+        {
+            "source": "https://sjrfire.com//services",
+            "target": "https://sjrfire.com//",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/welcome-week",
+            "source": "https://sjrfire.com//services",
+            "target": "https://sjrfire.com//contact",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//research",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//temple-research/centers-institutes",
+            "source": "https://sjrfire.com//services",
+            "target": "https://sjrfire.com//about",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//temple-research/research-divisions",
+            "source": "https://sjrfire.com//services",
+            "target": "https://sjrfire.com//gallery",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//temple-research/faculty-research-news",
+            "source": "https://sjrfire.com//services",
+            "target": "https://sjrfire.com//services",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//temple-research/grants-funding",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//temple-research/clinical-trials",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//temple-research/technology-development",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//athletics",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//athletics/varsity-sports",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//athletics/tickets",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//athletics/stella-owl",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/board-trustees",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/president",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/history-traditions",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/temple-health",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/news-media",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/offices",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/public-information",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/campus-development",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/internal-audits",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-temple/diversity-inclusion/preferred-name-use",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-temple/diversity-inclusion/resources",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//coronavirus",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//coronavirus/information-students",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//coronavirus/campus-communication",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//coronavirus/campus-events",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//coronavirus/faculty-and-staff-resources",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//coronavirus/international-campuses-and-programs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//coronavirus/staying-healthy",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/city-life/philadelphia",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/visiting-temple/accommodations",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/visiting-temple/dining-options",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/visiting-temple/religious-services-information",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/arts-and-culture",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/clubs-and-organizations",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/housing-dining-and-owlcards",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/parking-and-transportation",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/safety",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/student-banking",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/student-centers",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/wireless-computers-and-phone",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/academics",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/academics/advising-and-academic-support",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/academics/courses-and-calendars",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/academics/international-students",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/academics/libraries",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/academics/registration-grades-and-books",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/academics/schools-and-colleges",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/health-and-wellness",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/health-and-wellness/athletics-and-fitness",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/health-and-wellness/health-and-counseling",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/tuition-and-financial-aid",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/tuition-and-financial-aid/financial-aid",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/tuition-and-financial-aid/tuition-and-billing",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/careers-and-internships",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/careers-and-internships/career-center",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/careers-and-internships/internships",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/careers-and-internships/student-jobs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/welcome-week/convocation",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/president/university-officers-and-presidents-advisors",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/president/past-presidents",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/president/2019-state-university",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/history-traditions/russell-conwell",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/history-traditions/temple-traditions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/history-traditions/acres-diamonds",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/history-traditions/honorary-degrees",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/history-traditions/honorary-degrees/past-honorary-degree-recipients",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/news-media/media-mentions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/news-media/temple-university-wallpapers",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/news-media/contact-members-strategic-marketing-and-communications",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/public-information/facts-about-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/working-at-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/working-at-temple/calendars-and-time",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/working-at-temple/calendars-and-time/holiday-schedule",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/working-at-temple/careers-at-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/working-at-temple/human-resources",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/working-at-temple/performance-and-training",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/catering-exception-policy",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/catering-exception-policy/double-tree-catering-conferences",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/contact",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/frequently-asked-questions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/corporate-responsibility",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/logo-and-graphics-guide",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/guidelines-trademark-use",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/student-faculty-and-staff-guide",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/becoming-licensed",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/trademark-and-licensing-faq",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/where-buy-temple-gear",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/automobile-rental",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/club-quarters",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/doubletree-hotel",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/hampton-inn",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/hilton-garden-inn",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/hilton-philadelphia-at",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/holiday-inn-express",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff-resources/business-services/university-approved-hotels-car-rentals/loews-hotel",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/sonesta-philadelphia",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/conwell-inn",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/campus-services",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/campus-services/computers-email-and-phones",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/campus-services/conferences-and-meetings",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/campus-services/digital-document-and-postal-services",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/campus-services/facilities-and-space",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/campus-services/id-cards",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/campus-services/parking-and-transportation",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/faculty-resources",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/faculty-resources/calendars-schedules-and-grades",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/faculty-resources/courses-and-curricula",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/faculty-resources/instructional-resources",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/faculty-resources/faculty-senate-and-news",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/finance-and-travel",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/finance-and-travel/accounting-and-budget",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/finance-and-travel/employee-banking-and-finance",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/finance-and-travel/purchasing",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/finance-and-travel/tuition-remission",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/finance-and-travel/travel-and-expenses",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/wellness-and-safety",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/wellness-and-safety/fitness-and-health",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/wellness-and-safety/safety-and-alerts",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/campus-development/multipurpose-facilitystadium",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/campus-development/frequently-asked-questions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance/data-integrity",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance/data-integrity/rankings-data-overview-and-updates",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance/data-integrity/additional-resources",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance/data-integrity/accreditation-faq",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance/helpline",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance/resources",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance/who-we-are",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/libraries/charles",
+            "source": "https://sjrfire.com//services",
+            "target": "https://sjrfire.com//cdn-cgi/l/email-protection",
             "value": 1
         }
     ],
-    "exectime": 12.2
+    "exectime": 0.51
 }
