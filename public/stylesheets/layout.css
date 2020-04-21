@@ -2,7 +2,8 @@ html, body{
     height: 100%;
     width: 100%;
     margin: 0;
-    padding: 0;
+	padding: 0;
+	color: rgb(139, 1, 139) 
 }
 
 .grid-container {
@@ -27,7 +28,8 @@ html, body{
     top: 0px;
     left: 0px;
     width: 100%;
-    z-index: 1;
+	z-index: 1;
+
 }
 
 #menu{
@@ -79,17 +81,20 @@ html, body{
 	width: 0;
 	height: 0;
 	margin: 30px 0 20px 20px;
-	background: radial-gradient(circle,#f755a9,#aa1763, #dc55f7);
-	border-radius: 50%;
+	background: linear-gradient(-45deg, #EE7752,#E73C7E, rgb(115, 5, 166), #2305AB);
+	border-radius: 85%;
 	transition: 0.3s ease;
+	
 }
+
+
 #menu-bar{
 	z-index: 2;	
 }
 .change-bg{
 	width: 550px;
 	height: 540px;
-	transform: translate(-55%,-15%);
+	transform: translate(-36.7%,-5%);
 }
 
 
@@ -103,12 +108,11 @@ html, body{
 	transform: translateY(-6px) rotate(45deg);
 }
 .change #bar2{
-	opacity: 0;
+	opacity: 50;
 }
 .change{
 	display: block;
 }
-
 
 
 
@@ -148,7 +152,7 @@ html, body{
 .container {
     position: relative;
     display: block;
-    background-color: rgb(173, 7, 104);
+	background-color: #b81568;
 }
 
 .svg{
