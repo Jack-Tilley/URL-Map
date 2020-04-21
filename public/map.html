@@ -7,6 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./public/stylesheets/layout.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/minty/bootstrap.min.css">
+    
+
+    <link rel="stylesheet" href="./public/stylesheets/layout.css" type="text/css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans">
     <title>UrlMap</title>
 
 </head>
@@ -16,16 +20,23 @@
     <div class="grid-container">
         <div class="grid-item" id="header">
             <h1>Url-Map</h1>
-        </div>
-        <div class="grid-item" id="navbar">
-            <div class="navbar">
-                <a href="/map">MAP</a>
-                <a href="/public/about.html">ABOUT</a>
-                <a href="/public/contact.html">CONTACT</a>
-                <a href="https://github.com/Jack-Tilley/URL-Map">Github</a>
+            <div id="menu-bar">
+			    <div id="menu" onclick="onClickMenu()">
+				     <div id="bar1" class="bar"></div>
+				     <div id="bar2" class="bar"></div>
+				     <div id="bar3" class="bar"></div>
+			    </div>
+			    <ul class="nav" id="nav">
+				    <li><a href="/map">MAP</a></li>
+				    <li><a href="/public/about.html">ABOUT</a></li>
+				    <li><a href="/public/contact.html">CONTACT</a></li>
+				    <li><a href="https://github.com/Jack-Tilley/URL-Map" target="_blank">GITHUB</a></li>
+			    </ul>
             </div>
         </div>
-
+        
+		<div class="menu-bg" id="menu-bg"></div>
+       
         <div class="grid-item" id="forms">
             <h2>Forms</h2>
             <form action="/map" method="post">
@@ -78,10 +89,10 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/d3-selection-multi.v1.js"></script>
-    <script type="text/javascript" src="./public/js/mapscript.js"></script>
-    <script type="text/javascript" src="./public/js/timer.js"></script>
-    <script type="text/javascript" src="./public/js/search.js"></script>
-    <script type="text/javascript" src="./public/js/collaspeTree.js"></script>
+    <script type="text/javascript" src="/public/js/mapscript.js"></script>
+    <script type="text/javascript" src="/public/js/timer.js"></script>
+    <script type="text/javascript" src="/public/js/search.js"></script>
+    <script type="text/javascript" src="/public/js/script.js"></script>
 
 </body>
 </html>
