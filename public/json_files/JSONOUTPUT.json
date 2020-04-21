@@ -509,6 +509,114 @@
         },
         {
             "id": "https://www.temple.edu//about/libraries/charles"
+        },
+        {
+            "id": "https://www.temple.edu//about/meet-our-staff"
+        },
+        {
+            "id": "https://www.temple.edu//about/our-campuses"
+        },
+        {
+            "id": "https://www.temple.edu//about/contact"
+        },
+        {
+            "id": "https://www.temple.edu//apply"
+        },
+        {
+            "id": "https://www.temple.edu//apply/first-year-students"
+        },
+        {
+            "id": "https://www.temple.edu//apply/high-school-students/application-checklist"
+        },
+        {
+            "id": "https://www.temple.edu//apply/first-year-students/self-report-high-school-transcript"
+        },
+        {
+            "id": "https://www.temple.edu//apply/first-year-students/temple-option"
+        },
+        {
+            "id": "https://www.temple.edu//apply/next-steps-admitted-students"
+        },
+        {
+            "id": "https://www.temple.edu//apply/next-steps-admitted-students/experience-temple-day"
+        },
+        {
+            "id": "https://www.temple.edu//apply/transfer-students"
+        },
+        {
+            "id": "https://www.temple.edu//apply/transfer-students/application-checklist"
+        },
+        {
+            "id": "https://www.temple.edu//apply/transfer-students/transfer-equivalency-tool"
+        },
+        {
+            "id": "https://www.temple.edu//apply/international-students"
+        },
+        {
+            "id": "https://www.temple.edu//apply/international-students/scholarships"
+        },
+        {
+            "id": "https://www.temple.edu//apply/international-students/admitted-international-students"
+        },
+        {
+            "id": "https://www.temple.edu//apply/international-students/youarewelcomehere"
+        },
+        {
+            "id": "https://www.temple.edu//apply/international-students/youarewelcomehere-scholarship"
+        },
+        {
+            "id": "https://www.temple.edu//apply/international-students/visits-and-virtual-events"
+        },
+        {
+            "id": "https://www.temple.edu//apply/international-students/temple-rome-entry-year"
+        },
+        {
+            "id": "https://www.temple.edu//apply/international-students/international-student-profiles"
+        },
+        {
+            "id": "https://www.temple.edu//apply/international-students/frequently-asked-questions"
+        },
+        {
+            "id": "https://www.temple.edu//apply/international-students/meet-our-international-staff"
+        },
+        {
+            "id": "https://www.temple.edu//apply/request-re-enroll"
+        },
+        {
+            "id": "https://www.temple.edu//apply/application-status"
+        },
+        {
+            "id": "https://www.temple.edu//apply/request-defer"
+        },
+        {
+            "id": "https://www.temple.edu//apply/veterans"
+        },
+        {
+            "id": "https://www.temple.edu//visit"
+        },
+        {
+            "id": "https://www.temple.edu//visit/virtual-visit"
+        },
+        {
+            "id": "https://www.temple.edu//visit/virtual-visit/main-campus-tour"
+        },
+        {
+            "id": "https://www.temple.edu//visit/virtual-visit/frequently-asked-questions"
+        },
+        {
+            "id": "https://www.temple.edu//visit/ambler-events"
+        },
+        {
+            "id": "https://www.temple.edu//academics/programs-campus"
+        },
+        {
+            "id": "https://www.temple.edu//costs-aid-scholarships"
+        },
+        {
+            "id": "https://www.temple.edu//costs-aid-scholarships/fly-4"
+        },
+        {
+            "id": "https://www.temple.edu//request-information"
         }
     ],
     "links": [
@@ -1916,7 +2024,202 @@
             "source": "https://www.temple.edu//admissions",
             "target": "https://www.temple.edu//about/libraries/charles",
             "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//about",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//about/meet-our-staff",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//about/our-campuses",
+            "value": 2
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//about/contact",
+            "value": 2
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply",
+            "value": 5
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/first-year-students",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/high-school-students/application-checklist",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/first-year-students/self-report-high-school-transcript",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/first-year-students/temple-option",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/next-steps-admitted-students",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/next-steps-admitted-students/experience-temple-day",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/transfer-students",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/transfer-students/application-checklist",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/transfer-students/transfer-equivalency-tool",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/international-students",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/international-students/scholarships",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/international-students/admitted-international-students",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/international-students/youarewelcomehere",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/international-students/youarewelcomehere-scholarship",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/international-students/visits-and-virtual-events",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/international-students/temple-rome-entry-year",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/international-students/international-student-profiles",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/international-students/frequently-asked-questions",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/international-students/meet-our-international-staff",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/request-re-enroll",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/application-status",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/request-defer",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//apply/veterans",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//visit",
+            "value": 3
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//visit/virtual-visit",
+            "value": 5
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//visit/virtual-visit/main-campus-tour",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//visit/virtual-visit/frequently-asked-questions",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//visit/ambler-events",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//academics",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//academics/programs-campus",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//costs-aid-scholarships",
+            "value": 2
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//costs-aid-scholarships/fly-4",
+            "value": 1
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//request-information",
+            "value": 3
+        },
+        {
+            "source": "https://www.temple.edu//admissions/undergraduate",
+            "target": "https://www.temple.edu//",
+            "value": 3
         }
     ],
-    "exectime": 12.2
+    "exectime": 4.35
 }
