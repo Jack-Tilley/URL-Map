@@ -3,7 +3,7 @@ html, body{
     width: 100%;
     margin: 0;
 	padding: 0;
-	color: rgb(139, 1, 139) 
+	color: rgb(139, 1, 139);
 }
 
 .grid-container {
@@ -93,8 +93,8 @@ html, body{
 }
 .change-bg{
 	width: 550px;
-	height: 540px;
-	transform: translate(-36.7%,-5%);
+	height: 560px;
+	transform: translate(-38.18%,-8%);
 }
 .change #bar1{
 	transform: translateY(4px) rotateZ(-45deg);
@@ -178,6 +178,7 @@ html, body{
     position: relative;
     display: block;
 	background-color: #b81568;
+
 }
 
 .svg{
@@ -185,5 +186,6 @@ html, body{
     /* position: absolute; */
     /* display: block;
     margin: inline; */
-    background: antiquewhite;
+	background-color:rgb(139, 1, 139);
+    
 }
