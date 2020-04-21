@@ -2,7 +2,8 @@ html, body{
     height: 100%;
     width: 100%;
     margin: 0;
-    padding: 0;
+	padding: 0;
+	color: rgb(139, 1, 139);
 }
 
 .grid-container {
@@ -27,7 +28,8 @@ html, body{
     top: 0px;
     left: 0px;
     width: 100%;
-    z-index: 1;
+	z-index: 1;
+
 }
 
 #menu{
@@ -79,22 +81,20 @@ html, body{
 	width: 0;
 	height: 0;
 	margin: 30px 0 20px 20px;
-	background: radial-gradient(circle,#e94498,#b81568);
-	border-radius: 50%;
+	background: linear-gradient(-45deg, #EE7752,#E73C7E, rgb(115, 5, 166), #2305AB);
+	border-radius: 85%;
 	transition: 0.3s ease;
+	
 }
+
+
 #menu-bar{
 	z-index: 2;	
 }
 .change-bg{
 	width: 550px;
-	height: 540px;
-	transform: translate(-55%,-15%);
-}
-
-
-.change .bar{
-	background-color: white;
+	height: 560px;
+	transform: translate(-38.18%,-8%);
 }
 .change #bar1{
 	transform: translateY(4px) rotateZ(-45deg);
@@ -109,6 +109,35 @@ html, body{
 	display: block;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.change .bar{
+	background-color: white;
+}
+.change #bar1{
+	transform: translateY(4px) rotateZ(-45deg);
+}
+.change #bar3{
+	transform: translateY(-6px) rotate(45deg);
+}
+.change #bar2{
+	opacity: 50;
+}
+.change{
+	display: block;
+}
 
 
 
@@ -148,7 +177,8 @@ html, body{
 .container {
     position: relative;
     display: block;
-    background-color: rgb(28, 122, 40);
+	background-color: #b81568;
+
 }
 
 .svg{
@@ -156,5 +186,6 @@ html, body{
     /* position: absolute; */
     /* display: block;
     margin: inline; */
-    background: antiquewhite;
+	background-color:rgb(139, 1, 139);
+    
 }
