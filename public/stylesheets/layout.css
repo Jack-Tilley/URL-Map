@@ -96,6 +96,31 @@ html, body{
 	height: 540px;
 	transform: translate(-36.7%,-5%);
 }
+.change #bar1{
+	transform: translateY(4px) rotateZ(-45deg);
+}
+.change #bar3{
+	transform: translateY(-6px) rotate(45deg);
+}
+.change #bar2{
+	opacity: 0;
+}
+.change{
+	display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 .change .bar{
