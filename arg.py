@@ -41,7 +41,7 @@ def format_args(args):
 
 # creates the map based on user input
 def make_map(arg_tuple):
-    dynamic_path = "/Users/Tilley/Downloads/chromedriver"
+    dynamic_path = "/usr/lib/chromium-browser/chromedriver"
 
     url = arg_tuple[0]
     max_nodes = arg_tuple[1]
