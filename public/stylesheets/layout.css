@@ -121,6 +121,15 @@ html, body{
 .change{
 	display: block;
 }
+
+
+
+  
+
+
+
+
+
 #forms {
     float: left;
     height: 100%;
@@ -133,6 +142,14 @@ html, body{
 	width: auto;
 	padding-top: 58px;
 }
+
+
+
+
+
+
+
+
 #footer {
     text-align: center;
     position: fixed;
@@ -141,6 +158,14 @@ html, body{
     width: 100%;
     z-index: 1;
 }
+
+
+
+
+
+
+
+
 .link { stroke: rgb(46, 41, 41); stroke-opacity: .6; stroke-width: 1px; }
 .container {
     position: relative;
