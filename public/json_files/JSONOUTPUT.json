@@ -1,2229 +1,853 @@
 {
     "nodes": [
         {
-            "id": "https://www.temple.edu/"
+            "id": "https://www.google.com/"
         },
         {
-            "id": "https://www.temple.edu//"
+            "id": "https://www.google.com//preferences?hl=ja"
         },
         {
-            "id": "https://www.temple.edu//admissions"
+            "id": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD"
         },
         {
-            "id": "https://www.temple.edu//admissions/undergraduate"
+            "id": "https://www.google.com//advanced_search?hl=ja&authuser=0"
         },
         {
-            "id": "https://www.temple.edu//admissions/graduate-professional"
+            "id": "https://www.google.com//intl/ja/ads/"
         },
         {
-            "id": "https://www.temple.edu//admissions/international-admissions"
+            "id": "https://www.google.com//intl/ja/about.html"
         },
         {
-            "id": "https://www.temple.edu//admissions/tuition-fees"
+            "id": "https://www.google.com//intl/ja/policies/privacy/"
         },
         {
-            "id": "https://www.temple.edu//admissions/financial-aid"
+            "id": "https://www.google.com//intl/ja/policies/terms/"
         },
         {
-            "id": "https://www.temple.edu//academics"
+            "id": "https://www.google.com//webhp?tab=ww"
         },
         {
-            "id": "https://www.temple.edu//academics/degree-programs"
+            "id": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja"
         },
         {
-            "id": "https://www.temple.edu//academics/schools-and-colleges"
+            "id": "https://www.google.com///support.google.com/websearch?p=ws_settings_safesearch&hl=ja"
         },
         {
-            "id": "https://www.temple.edu//academics/accelerated-programs"
+            "id": "https://www.google.com//history/optout?hl=ja"
         },
         {
-            "id": "https://www.temple.edu//academics/campuses"
+            "id": "https://www.google.com///support.google.com/accounts/answer/61416?hl=ja"
         },
         {
-            "id": "https://www.temple.edu//academics/honors-program"
+            "id": "https://www.google.com//url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dja%26fg%3D1&sa=U&ved=0ahUKEwjZjuLz2pDpAhUNyIsBHYNvBxIQ8KwCCAI&usg=AOvVaw3Jjcbvmz2ZvcX-PcYk0y-h"
         },
         {
-            "id": "https://www.temple.edu//academics/continuing-education-summer-sessions"
+            "id": "https://www.google.com//url?q=https://policies.google.com/privacy%3Ffg%3D1&sa=U&ved=0ahUKEwjZjuLz2pDpAhUNyIsBHYNvBxIQ8awCCAM&usg=AOvVaw0_m8VasZJpKX-Wsv9An9dR"
         },
         {
-            "id": "https://www.temple.edu//academics/international-study"
+            "id": "https://www.google.com//url?q=https://policies.google.com/terms%3Ffg%3D1&sa=U&ved=0ahUKEwjZjuLz2pDpAhUNyIsBHYNvBxIQ8qwCCAQ&usg=AOvVaw1q6pazCRfV5_c8zsu4eWOZ"
         },
         {
-            "id": "https://www.temple.edu//academics/courses-schedules"
+            "id": "https://www.google.com//?sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQOwgC"
         },
         {
-            "id": "https://www.temple.edu//academics/dual-degree-programs"
+            "id": "https://www.google.com//?sa=X&hl=ja&output=search&ie=UTF-8&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQPAgE"
         },
         {
-            "id": "https://www.temple.edu//about/libraries"
+            "id": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&sa=X&hl=ja&ie=UTF-8&gbv=1&sei=lA-rXq6rIYGxmAWawZiYCA"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple"
+            "id": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnms&tbm=shop&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ_AUICCgB"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/arts-culture"
+            "id": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ_AUICSgC"
         },
         {
-            "id": "https://www.temple.edu//life-temple/virtual-life"
+            "id": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnms&tbm=vid&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ_AUICigD"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/clubs-organizations"
+            "id": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ_AUICygE"
         },
         {
-            "id": "https://www.temple.edu//life-temple/diversity-inclusion"
+            "id": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnms&tbm=bks&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ_AUIDSgG"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/housing-dining"
+            "id": "https://www.google.com//advanced_search"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/health-wellness"
+            "id": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnt&tbs=lr:lang_1ja&lr=lang_ja&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQpwUIDw"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/city-life"
+            "id": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnt&tbs=qdr:h&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQpwUIEQ"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/visiting-temple"
+            "id": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnt&tbs=qdr:d&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQpwUIEg"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/faqs"
+            "id": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnt&tbs=qdr:w&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQpwUIEw"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/sustainability-safety"
+            "id": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnt&tbs=qdr:m&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQpwUIFA"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/temple-food-trucks"
+            "id": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnt&tbs=qdr:y&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQpwUIFQ"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students"
+            "id": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnt&tbs=li:1&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQpwUIFw"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/tobacco-free-temple"
+            "id": "https://www.google.com//url?q=https://www.itmedia.co.jp/news/articles/2004/27/news045.html&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjAAegQIABAB&usg=AOvVaw0iBT7dML4MCmnjK8EYDCk6"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/welcome-week"
+            "id": "https://www.google.com//url?q=https://blog.goo.ne.jp/maru-a-gogo/e/0fa1b49dceff004df272868760e414bc&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjABegQIAhAB&usg=AOvVaw0XDawH5j0ivVGeAD96R_t-"
         },
         {
-            "id": "https://www.temple.edu//research"
+            "id": "https://www.google.com//url?q=https://www.google.com/doodles%3Fhl%3Dja&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjACegQICBAB&usg=AOvVaw3OW_7V_H_4OWrFsGvdPF8J"
         },
         {
-            "id": "https://www.temple.edu//temple-research/centers-institutes"
+            "id": "https://www.google.com//url?q=https://www.msn.com/ja-jp/news/techandscience/google-doodle%25E3%2580%2581%25E3%2580%258Cstay-home%25E3%2580%258D%25E3%2581%25A7%25E9%2581%258E%25E5%258E%25BB%25E3%2581%25AE%25E4%25BA%25BA%25E6%25B0%2597doodle%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25E6%25AF%258E%25E6%2597%25A5%25E6%259B%25B4%25E6%2596%25B0/ar-BB13ex1o&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjADegQIAxAB&usg=AOvVaw2u8P5pzhIhCQZkmTMxMLI6"
         },
         {
-            "id": "https://www.temple.edu//temple-research/research-divisions"
+            "id": "https://www.google.com//url?q=https://mag.app-liv.jp/archive/84295/&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjAEegQIBxAB&usg=AOvVaw3-7-SPs7eRjd6oKwa-WheJ"
         },
         {
-            "id": "https://www.temple.edu//temple-research/faculty-research-news"
+            "id": "https://www.google.com//url?q=https://mag.app-liv.jp/archive/84295/%23331878&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ0gIwBHoECAcQAw&usg=AOvVaw0fB7btJeE69aEcg3TbjSum"
         },
         {
-            "id": "https://www.temple.edu//temple-research/grants-funding"
+            "id": "https://www.google.com//url?q=https://mag.app-liv.jp/archive/84295/%23331903&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ0gIwBHoECAcQBA&usg=AOvVaw1HXvj1hvde3-0iuHFGdVOx"
         },
         {
-            "id": "https://www.temple.edu//temple-research/clinical-trials"
+            "id": "https://www.google.com//url?q=https://mag.app-liv.jp/archive/84295/%23331956&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ0gIwBHoECAcQBQ&usg=AOvVaw21sBM4I0iXmBM0p8OXzA9w"
         },
         {
-            "id": "https://www.temple.edu//temple-research/technology-development"
+            "id": "https://www.google.com//url?q=https://xn--xyv715c.com/google-matome/&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjAFegQIBRAB&usg=AOvVaw3juej-z45hueCSeKgDcDnv"
         },
         {
-            "id": "https://www.temple.edu//athletics"
+            "id": "https://www.google.com//url?q=https://www.mdn.co.jp/di/newstopics/72488/&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjAGegQIBhAB&usg=AOvVaw2Xj8USc9xIaXrZE62SILZa"
         },
         {
-            "id": "https://www.temple.edu//athletics/varsity-sports"
+            "id": "https://www.google.com//url?q=https://www.excite.co.jp/news/article/Itmedia_news_20200427045/&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjAHegQIBBAB&usg=AOvVaw3yLJLXnS-tuTriTcSNH0E5"
         },
         {
-            "id": "https://www.temple.edu//athletics/tickets"
+            "id": "https://www.google.com//url?q=https://www.youtube.com/watch%3Fv%3DbPxKK81b6Wg&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQtwIwCHoECAoQAQ&usg=AOvVaw2S_UZ46mmnzQ_6yFnjmBot"
         },
         {
-            "id": "https://www.temple.edu//athletics/stella-owl"
+            "id": "https://www.google.com//url?q=https://www.youtube.com/watch%3Fv%3DbPxKK81b6Wg&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQuAIwCHoECAoQAg&usg=AOvVaw2lH8cdYlHV92R7u2i0KVxx"
         },
         {
-            "id": "https://www.temple.edu//about"
+            "id": "https://www.google.com//url?q=https://www.youtube.com/watch%3Fv%3De_Q5dLEFKmc&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQtwIwCXoECAkQAQ&usg=AOvVaw0QPlw9-JxV5szWMOEg4GKm"
         },
         {
-            "id": "https://www.temple.edu//about/board-trustees"
+            "id": "https://www.google.com//url?q=https://www.youtube.com/watch%3Fv%3De_Q5dLEFKmc&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQuAIwCXoECAkQAg&usg=AOvVaw1NTXHncEnXV9tquIlbO83a"
         },
         {
-            "id": "https://www.temple.edu//about/president"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google%E3%83%AD%E3%82%B4%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAE"
         },
         {
-            "id": "https://www.temple.edu//about/history-traditions"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google%E3%83%AD%E3%82%B4%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0"
         },
         {
-            "id": "https://www.temple.edu//about/temple-health"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2018&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAI"
         },
         {
-            "id": "https://www.temple.edu//about/news-media"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2018"
         },
         {
-            "id": "https://www.temple.edu//about/offices"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2013&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAM"
         },
         {
-            "id": "https://www.temple.edu//about/public-information"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2013"
         },
         {
-            "id": "https://www.temple.edu//about/faculty-staff"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2012&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAQ"
         },
         {
-            "id": "https://www.temple.edu//about/campus-development"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2012"
         },
         {
-            "id": "https://www.temple.edu//about/internal-audits"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=doodle+%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%82%B2%E3%83%BC%E3%83%A0&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAU"
         },
         {
-            "id": "https://www.temple.edu//about/ethics-compliance"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=doodle+%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%82%B2%E3%83%BC%E3%83%A0"
         },
         {
-            "id": "https://www.temple.edu//life-temple/diversity-inclusion/preferred-name-use"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+doodle+%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAY"
         },
         {
-            "id": "https://www.temple.edu//life-temple/diversity-inclusion/resources"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+doodle+%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84"
         },
         {
-            "id": "https://www.temple.edu//coronavirus"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=doodle+%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAc"
         },
         {
-            "id": "https://www.temple.edu//coronavirus/information-students"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=doodle+%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0"
         },
         {
-            "id": "https://www.temple.edu//coronavirus/campus-communication"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2017&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAg"
         },
         {
-            "id": "https://www.temple.edu//coronavirus/campus-events"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2017"
         },
         {
-            "id": "https://www.temple.edu//coronavirus/faculty-and-staff-resources"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2019&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAk"
         },
         {
-            "id": "https://www.temple.edu//coronavirus/international-campuses-and-programs"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2019"
         },
         {
-            "id": "https://www.temple.edu//coronavirus/staying-healthy"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%82%B2%E3%83%BC%E3%83%A0&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAo"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/city-life/philadelphia"
+            "id": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%82%B2%E3%83%BC%E3%83%A0"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/visiting-temple/accommodations"
+            "id": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&ei=lA-rXq6rIYGxmAWawZiYCA&start=10&sa=N"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/visiting-temple/dining-options"
+            "id": "https://www.google.com//url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fie%253DUTF-8%2526q%253D%2525E4%2525BA%2525BA%2525E6%2525B0%252597%2525E3%252581%2525AE%252BGoogle%252BDoodle%252B%2525E3%252582%2525B2%2525E3%252583%2525BC%2525E3%252583%2525A0%2526oi%253Dddle%2526ct%253D153498820%2526hl%253Dja%2526sa%253DX%2526ved%253D0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD%26hl%3Dja&sa=U&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQxs8CCEg&usg=AOvVaw2FpMsS_vzRGyMb0xb4k2wh"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/visiting-temple/religious-services-information"
+            "id": "https://www.google.com///policies.google.com/privacy?fg=1"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life"
+            "id": "https://www.google.com///policies.google.com/terms?fg=1"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/arts-and-culture"
+            "id": "https://www.google.com//?hl=ja"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/clubs-and-organizations"
+            "id": "https://www.google.com///support.google.com/websearch?p=adv_safesearch&hl=ja"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/housing-dining-and-owlcards"
+            "id": "https://www.google.com///support.google.com/websearch?p=ws_images_usagerights&hl=ja"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/parking-and-transportation"
+            "id": "https://www.google.com///support.google.com/websearch?p=adv_pages_similar&hl=ja"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/safety"
+            "id": "https://www.google.com///support.google.com/websearch?p=adv_pages_visited&hl=ja"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/student-banking"
+            "id": "https://www.google.com///support.google.com/websearch?p=adv_operators&hl=ja"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/student-centers"
+            "id": "https://www.google.com//url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dja%26fg%3D1&sa=U&ved=0ahUKEwij9JH02pDpAhUFNaYKHbQ8C9YQ8KwCCAE&usg=AOvVaw17_sKEtZWAXbZ9JIBOtHmV"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/campus-life/wireless-computers-and-phone"
+            "id": "https://www.google.com//url?q=https://policies.google.com/privacy%3Ffg%3D1&sa=U&ved=0ahUKEwij9JH02pDpAhUFNaYKHbQ8C9YQ8awCCAI&usg=AOvVaw0jDghZb6xW3DpQBwlGSZ5V"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/academics"
+            "id": "https://www.google.com//url?q=https://policies.google.com/terms%3Ffg%3D1&sa=U&ved=0ahUKEwij9JH02pDpAhUFNaYKHbQ8C9YQ8qwCCAM&usg=AOvVaw36k4GIx0JS-JP1mJnFf5hG"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/academics/advising-and-academic-support"
+            "id": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwjLs8r02pDpAhUMvJQKHTYvBNoQPQgD"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/academics/courses-and-calendars"
+            "id": "https://www.google.com//?tab=uu"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/academics/international-students"
+            "id": "https://www.google.com//accounts"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/academics/libraries"
+            "id": "https://www.google.com//"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/academics/registration-grades-and-books"
+            "id": "https://www.google.com//accounts/?hl=ja"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/academics/schools-and-colleges"
+            "id": "https://www.google.com//accounts/community?hl=ja"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/health-and-wellness"
+            "id": "https://www.google.com///myaccount.google.com/"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/health-and-wellness/athletics-and-fitness"
+            "id": "https://www.google.com///www.google.com/intl/ja/privacy.html"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/health-and-wellness/health-and-counseling"
+            "id": "https://www.google.com//chrome/answer/95647"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/tuition-and-financial-aid"
+            "id": "https://www.google.com//accounts/answer/32050"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/tuition-and-financial-aid/financial-aid"
+            "id": "https://www.google.com//chrome/answer/95464"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/tuition-and-financial-aid/tuition-and-billing"
+            "id": "https://www.google.com//accounts/answer/39612"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/careers-and-internships"
+            "id": "https://www.google.com//accounts/?hl=ja#topic=3382296"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/careers-and-internships/career-center"
+            "id": "https://www.google.com//accounts/answer/27441?hl=ja&ref_topic=3382296"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/careers-and-internships/internships"
+            "id": "https://www.google.com//accounts/answer/32040?hl=ja&ref_topic=3382296"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/students/careers-and-internships/student-jobs"
+            "id": "https://www.google.com//accounts/answer/114129?hl=ja&ref_topic=3382296"
         },
         {
-            "id": "https://www.temple.edu//life-at-temple/welcome-week/convocation"
+            "id": "https://www.google.com//accounts/answer/6304920?hl=ja&ref_topic=3382296"
         },
         {
-            "id": "https://www.temple.edu//about/president/university-officers-and-presidents-advisors"
+            "id": "https://www.google.com//accounts/answer/58585?hl=ja&ref_topic=3382296"
         },
         {
-            "id": "https://www.temple.edu//about/president/past-presidents"
+            "id": "https://www.google.com//accounts/answer/3265955?hl=ja&ref_topic=3382296"
         },
         {
-            "id": "https://www.temple.edu//about/president/2019-state-university"
+            "id": "https://www.google.com//accounts/answer/3118687?hl=ja&ref_topic=3382296"
         },
         {
-            "id": "https://www.temple.edu//about/history-traditions/russell-conwell"
+            "id": "https://www.google.com//accounts/answer/183723?hl=ja&ref_topic=3382296"
         },
         {
-            "id": "https://www.temple.edu//about/history-traditions/temple-traditions"
-        },
-        {
-            "id": "https://www.temple.edu//about/history-traditions/acres-diamonds"
-        },
-        {
-            "id": "https://www.temple.edu//about/history-traditions/honorary-degrees"
-        },
-        {
-            "id": "https://www.temple.edu//about/history-traditions/honorary-degrees/past-honorary-degree-recipients"
-        },
-        {
-            "id": "https://www.temple.edu//about/news-media/media-mentions"
-        },
-        {
-            "id": "https://www.temple.edu//about/news-media/temple-university-wallpapers"
-        },
-        {
-            "id": "https://www.temple.edu//about/news-media/contact-members-strategic-marketing-and-communications"
-        },
-        {
-            "id": "https://www.temple.edu//about/public-information/facts-about-temple"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/working-at-temple"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/working-at-temple/calendars-and-time"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/working-at-temple/calendars-and-time/holiday-schedule"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/working-at-temple/careers-at-temple"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/working-at-temple/human-resources"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/working-at-temple/performance-and-training"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/catering-exception-policy"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/catering-exception-policy/double-tree-catering-conferences"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/contact"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/frequently-asked-questions"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/corporate-responsibility"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/logo-and-graphics-guide"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/guidelines-trademark-use"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/student-faculty-and-staff-guide"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/becoming-licensed"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/trademark-and-licensing-faq"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/where-buy-temple-gear"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/automobile-rental"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/club-quarters"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/doubletree-hotel"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/hampton-inn"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/hilton-garden-inn"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/hilton-philadelphia-at"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/holiday-inn-express"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff-resources/business-services/university-approved-hotels-car-rentals/loews-hotel"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/sonesta-philadelphia"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/conwell-inn"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/campus-services"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/campus-services/computers-email-and-phones"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/campus-services/conferences-and-meetings"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/campus-services/digital-document-and-postal-services"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/campus-services/facilities-and-space"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/campus-services/id-cards"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/campus-services/parking-and-transportation"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/faculty-resources"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/faculty-resources/calendars-schedules-and-grades"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/faculty-resources/courses-and-curricula"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/faculty-resources/instructional-resources"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/faculty-resources/faculty-senate-and-news"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/finance-and-travel"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/finance-and-travel/accounting-and-budget"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/finance-and-travel/employee-banking-and-finance"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/finance-and-travel/purchasing"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/finance-and-travel/tuition-remission"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/finance-and-travel/travel-and-expenses"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/wellness-and-safety"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/wellness-and-safety/fitness-and-health"
-        },
-        {
-            "id": "https://www.temple.edu//about/faculty-staff/wellness-and-safety/safety-and-alerts"
-        },
-        {
-            "id": "https://www.temple.edu//about/campus-development/multipurpose-facilitystadium"
-        },
-        {
-            "id": "https://www.temple.edu//about/campus-development/frequently-asked-questions"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance/data-integrity"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance/data-integrity/rankings-data-overview-and-updates"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance/data-integrity/additional-resources"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance/data-integrity/accreditation-faq"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance/helpline"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance/resources"
-        },
-        {
-            "id": "https://www.temple.edu//about/ethics-compliance/who-we-are"
-        },
-        {
-            "id": "https://www.temple.edu//about/libraries/charles"
-        },
-        {
-            "id": "https://www.temple.edu//about/meet-our-staff"
-        },
-        {
-            "id": "https://www.temple.edu//about/our-campuses"
-        },
-        {
-            "id": "https://www.temple.edu//about/contact"
-        },
-        {
-            "id": "https://www.temple.edu//apply"
-        },
-        {
-            "id": "https://www.temple.edu//apply/first-year-students"
-        },
-        {
-            "id": "https://www.temple.edu//apply/high-school-students/application-checklist"
-        },
-        {
-            "id": "https://www.temple.edu//apply/first-year-students/self-report-high-school-transcript"
-        },
-        {
-            "id": "https://www.temple.edu//apply/first-year-students/temple-option"
-        },
-        {
-            "id": "https://www.temple.edu//apply/next-steps-admitted-students"
-        },
-        {
-            "id": "https://www.temple.edu//apply/next-steps-admitted-students/experience-temple-day"
-        },
-        {
-            "id": "https://www.temple.edu//apply/transfer-students"
-        },
-        {
-            "id": "https://www.temple.edu//apply/transfer-students/application-checklist"
-        },
-        {
-            "id": "https://www.temple.edu//apply/transfer-students/transfer-equivalency-tool"
-        },
-        {
-            "id": "https://www.temple.edu//apply/international-students"
-        },
-        {
-            "id": "https://www.temple.edu//apply/international-students/scholarships"
-        },
-        {
-            "id": "https://www.temple.edu//apply/international-students/admitted-international-students"
-        },
-        {
-            "id": "https://www.temple.edu//apply/international-students/youarewelcomehere"
-        },
-        {
-            "id": "https://www.temple.edu//apply/international-students/youarewelcomehere-scholarship"
-        },
-        {
-            "id": "https://www.temple.edu//apply/international-students/visits-and-virtual-events"
-        },
-        {
-            "id": "https://www.temple.edu//apply/international-students/temple-rome-entry-year"
-        },
-        {
-            "id": "https://www.temple.edu//apply/international-students/international-student-profiles"
-        },
-        {
-            "id": "https://www.temple.edu//apply/international-students/frequently-asked-questions"
-        },
-        {
-            "id": "https://www.temple.edu//apply/international-students/meet-our-international-staff"
-        },
-        {
-            "id": "https://www.temple.edu//apply/request-re-enroll"
-        },
-        {
-            "id": "https://www.temple.edu//apply/application-status"
-        },
-        {
-            "id": "https://www.temple.edu//apply/request-defer"
-        },
-        {
-            "id": "https://www.temple.edu//apply/veterans"
-        },
-        {
-            "id": "https://www.temple.edu//visit"
-        },
-        {
-            "id": "https://www.temple.edu//visit/virtual-visit"
-        },
-        {
-            "id": "https://www.temple.edu//visit/virtual-visit/main-campus-tour"
-        },
-        {
-            "id": "https://www.temple.edu//visit/virtual-visit/frequently-asked-questions"
-        },
-        {
-            "id": "https://www.temple.edu//visit/ambler-events"
-        },
-        {
-            "id": "https://www.temple.edu//academics/programs-campus"
-        },
-        {
-            "id": "https://www.temple.edu//costs-aid-scholarships"
-        },
-        {
-            "id": "https://www.temple.edu//costs-aid-scholarships/fly-4"
-        },
-        {
-            "id": "https://www.temple.edu//request-information"
+            "id": "https://www.google.com//accounts/troubleshooter/2402620?hl=ja&ref_topic=3382296"
         }
     ],
     "links": [
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//",
+            "source": "https://www.google.com/",
+            "target": "https://www.google.com//preferences?hl=ja",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com/",
+            "target": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com/",
+            "target": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com/",
+            "target": "https://www.google.com//intl/ja/ads/",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com/",
+            "target": "https://www.google.com//intl/ja/about.html",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com/",
+            "target": "https://www.google.com//intl/ja/policies/privacy/",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com/",
+            "target": "https://www.google.com//intl/ja/policies/terms/",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com//webhp?tab=ww",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//admissions",
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//admissions/undergraduate",
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com///support.google.com/websearch?p=ws_settings_safesearch&hl=ja",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//admissions/graduate-professional",
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com//history/optout?hl=ja",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//admissions/international-admissions",
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com///support.google.com/accounts/answer/61416?hl=ja",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//admissions/tuition-fees",
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com//url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dja%26fg%3D1&sa=U&ved=0ahUKEwjZjuLz2pDpAhUNyIsBHYNvBxIQ8KwCCAI&usg=AOvVaw3Jjcbvmz2ZvcX-PcYk0y-h",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//admissions/financial-aid",
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com//url?q=https://policies.google.com/privacy%3Ffg%3D1&sa=U&ved=0ahUKEwjZjuLz2pDpAhUNyIsBHYNvBxIQ8awCCAM&usg=AOvVaw0_m8VasZJpKX-Wsv9An9dR",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics",
+            "source": "https://www.google.com//preferences?hl=ja",
+            "target": "https://www.google.com//url?q=https://policies.google.com/terms%3Ffg%3D1&sa=U&ved=0ahUKEwjZjuLz2pDpAhUNyIsBHYNvBxIQ8qwCCAQ&usg=AOvVaw1q6pazCRfV5_c8zsu4eWOZ",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/degree-programs",
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//?sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQOwgC",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/schools-and-colleges",
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//?sa=X&hl=ja&output=search&ie=UTF-8&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQPAgE",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/accelerated-programs",
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&sa=X&hl=ja&ie=UTF-8&gbv=1&sei=lA-rXq6rIYGxmAWawZiYCA",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/campuses",
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnms&tbm=shop&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ_AUICCgB",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/honors-program",
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ_AUICSgC",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/continuing-education-summer-sessions",
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnms&tbm=vid&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ_AUICigD",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/international-study",
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ_AUICygE",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/courses-schedules",
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnms&tbm=bks&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ_AUIDSgG",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//academics/dual-degree-programs",
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//advanced_search",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/libraries",
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnt&tbs=lr:lang_1ja&lr=lang_ja&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQpwUIDw",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnt&tbs=qdr:h&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQpwUIEQ",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnt&tbs=qdr:d&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQpwUIEg",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnt&tbs=qdr:w&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQpwUIEw",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnt&tbs=qdr:m&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQpwUIFA",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnt&tbs=qdr:y&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQpwUIFQ",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&source=lnt&tbs=li:1&sa=X&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQpwUIFw",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://www.itmedia.co.jp/news/articles/2004/27/news045.html&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjAAegQIABAB&usg=AOvVaw0iBT7dML4MCmnjK8EYDCk6",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://blog.goo.ne.jp/maru-a-gogo/e/0fa1b49dceff004df272868760e414bc&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjABegQIAhAB&usg=AOvVaw0XDawH5j0ivVGeAD96R_t-",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://www.google.com/doodles%3Fhl%3Dja&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjACegQICBAB&usg=AOvVaw3OW_7V_H_4OWrFsGvdPF8J",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://www.msn.com/ja-jp/news/techandscience/google-doodle%25E3%2580%2581%25E3%2580%258Cstay-home%25E3%2580%258D%25E3%2581%25A7%25E9%2581%258E%25E5%258E%25BB%25E3%2581%25AE%25E4%25BA%25BA%25E6%25B0%2597doodle%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25E6%25AF%258E%25E6%2597%25A5%25E6%259B%25B4%25E6%2596%25B0/ar-BB13ex1o&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjADegQIAxAB&usg=AOvVaw2u8P5pzhIhCQZkmTMxMLI6",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://mag.app-liv.jp/archive/84295/&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjAEegQIBxAB&usg=AOvVaw3-7-SPs7eRjd6oKwa-WheJ",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://mag.app-liv.jp/archive/84295/%23331878&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ0gIwBHoECAcQAw&usg=AOvVaw0fB7btJeE69aEcg3TbjSum",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://mag.app-liv.jp/archive/84295/%23331903&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ0gIwBHoECAcQBA&usg=AOvVaw1HXvj1hvde3-0iuHFGdVOx",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://mag.app-liv.jp/archive/84295/%23331956&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ0gIwBHoECAcQBQ&usg=AOvVaw21sBM4I0iXmBM0p8OXzA9w",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://xn--xyv715c.com/google-matome/&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjAFegQIBRAB&usg=AOvVaw3juej-z45hueCSeKgDcDnv",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://www.mdn.co.jp/di/newstopics/72488/&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjAGegQIBhAB&usg=AOvVaw2Xj8USc9xIaXrZE62SILZa",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://www.excite.co.jp/news/article/Itmedia_news_20200427045/&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQFjAHegQIBBAB&usg=AOvVaw3yLJLXnS-tuTriTcSNH0E5",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://www.youtube.com/watch%3Fv%3DbPxKK81b6Wg&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQtwIwCHoECAoQAQ&usg=AOvVaw2S_UZ46mmnzQ_6yFnjmBot",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://www.youtube.com/watch%3Fv%3DbPxKK81b6Wg&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQuAIwCHoECAoQAg&usg=AOvVaw2lH8cdYlHV92R7u2i0KVxx",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://www.youtube.com/watch%3Fv%3De_Q5dLEFKmc&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQtwIwCXoECAkQAQ&usg=AOvVaw0QPlw9-JxV5szWMOEg4GKm",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://www.youtube.com/watch%3Fv%3De_Q5dLEFKmc&sa=U&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQuAIwCXoECAkQAg&usg=AOvVaw1NTXHncEnXV9tquIlbO83a",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google%E3%83%AD%E3%82%B4%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAE",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google%E3%83%AD%E3%82%B4%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2018&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAI",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2018",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2013&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAM",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2013",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2012&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAQ",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2012",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=doodle+%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%82%B2%E3%83%BC%E3%83%A0&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAU",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=doodle+%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%82%B2%E3%83%BC%E3%83%A0",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+doodle+%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAY",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+doodle+%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=doodle+%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAc",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=doodle+%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2017&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAg",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2017",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2019&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAk",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+2019",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%82%B2%E3%83%BC%E3%83%A0&sa=X&ved=2ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQ1QJ6BAgBEAo",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?hl=ja&ie=UTF-8&q=google+%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%82%B2%E3%83%BC%E3%83%A0",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//search?q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&hl=ja&ie=UTF-8&ei=lA-rXq6rIYGxmAWawZiYCA&start=10&sa=N",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com//url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fie%253DUTF-8%2526q%253D%2525E4%2525BA%2525BA%2525E6%2525B0%252597%2525E3%252581%2525AE%252BGoogle%252BDoodle%252B%2525E3%252582%2525B2%2525E3%252583%2525BC%2525E3%252583%2525A0%2526oi%253Dddle%2526ct%253D153498820%2526hl%253Dja%2526sa%253DX%2526ved%253D0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD%26hl%3Dja&sa=U&ved=0ahUKEwiuxfHz2pDpAhWBGKYKHZogBoMQxs8CCEg&usg=AOvVaw2FpMsS_vzRGyMb0xb4k2wh",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com///policies.google.com/privacy?fg=1",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwiN4tnz2pDpAhW4yosBHZkXAhsQPQgD",
+            "target": "https://www.google.com///policies.google.com/terms?fg=1",
+            "value": 1
+        },
+        {
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com//preferences?hl=ja",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple",
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com//?hl=ja",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/arts-culture",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-temple/virtual-life",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/clubs-organizations",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-temple/diversity-inclusion",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/housing-dining",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/health-wellness",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/city-life",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/visiting-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/faqs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/sustainability-safety",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/temple-food-trucks",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/students",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/tobacco-free-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//life-at-temple/welcome-week",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//research",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//temple-research/centers-institutes",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//temple-research/research-divisions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//temple-research/faculty-research-news",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//temple-research/grants-funding",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//temple-research/clinical-trials",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//temple-research/technology-development",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//athletics",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//athletics/varsity-sports",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//athletics/tickets",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//athletics/stella-owl",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/board-trustees",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/president",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/history-traditions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/temple-health",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/news-media",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/offices",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/public-information",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/faculty-staff",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/campus-development",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/internal-audits",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu/",
-            "target": "https://www.temple.edu//about/ethics-compliance",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//",
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com///support.google.com/websearch?p=adv_safesearch&hl=ja",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//admissions",
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com///support.google.com/websearch?p=ws_images_usagerights&hl=ja",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//admissions/undergraduate",
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com///support.google.com/websearch?p=adv_pages_similar&hl=ja",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//admissions/graduate-professional",
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com///support.google.com/websearch?p=adv_pages_visited&hl=ja",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//admissions/international-admissions",
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com///support.google.com/websearch?p=adv_operators&hl=ja",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//admissions/tuition-fees",
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com//url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dja%26fg%3D1&sa=U&ved=0ahUKEwij9JH02pDpAhUFNaYKHbQ8C9YQ8KwCCAE&usg=AOvVaw17_sKEtZWAXbZ9JIBOtHmV",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//admissions/financial-aid",
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com//url?q=https://policies.google.com/privacy%3Ffg%3D1&sa=U&ved=0ahUKEwij9JH02pDpAhUFNaYKHbQ8C9YQ8awCCAI&usg=AOvVaw0jDghZb6xW3DpQBwlGSZ5V",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics",
+            "source": "https://www.google.com//advanced_search?hl=ja&authuser=0",
+            "target": "https://www.google.com//url?q=https://policies.google.com/terms%3Ffg%3D1&sa=U&ved=0ahUKEwij9JH02pDpAhUFNaYKHbQ8C9YQ8qwCCAM&usg=AOvVaw36k4GIx0JS-JP1mJnFf5hG",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/degree-programs",
+            "source": "https://www.google.com//webhp?tab=ww",
+            "target": "https://www.google.com//preferences?hl=ja",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/schools-and-colleges",
+            "source": "https://www.google.com//webhp?tab=ww",
+            "target": "https://www.google.com//search?ie=UTF-8&q=%E4%BA%BA%E6%B0%97%E3%81%AE+Google+Doodle+%E3%82%B2%E3%83%BC%E3%83%A0&oi=ddle&ct=153498820&hl=ja&sa=X&ved=0ahUKEwjLs8r02pDpAhUMvJQKHTYvBNoQPQgD",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/accelerated-programs",
+            "source": "https://www.google.com//webhp?tab=ww",
+            "target": "https://www.google.com//advanced_search?hl=ja&authuser=0",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/campuses",
+            "source": "https://www.google.com//webhp?tab=ww",
+            "target": "https://www.google.com//intl/ja/ads/",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/honors-program",
+            "source": "https://www.google.com//webhp?tab=ww",
+            "target": "https://www.google.com//intl/ja/about.html",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/continuing-education-summer-sessions",
+            "source": "https://www.google.com//webhp?tab=ww",
+            "target": "https://www.google.com//intl/ja/policies/privacy/",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/international-study",
+            "source": "https://www.google.com//webhp?tab=ww",
+            "target": "https://www.google.com//intl/ja/policies/terms/",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/courses-schedules",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//academics/dual-degree-programs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/libraries",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//?tab=uu",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/arts-culture",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-temple/virtual-life",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/clubs-organizations",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-temple/diversity-inclusion",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/housing-dining",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/health-wellness",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/city-life",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/visiting-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/faqs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/sustainability-safety",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/temple-food-trucks",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/students",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/tobacco-free-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//life-at-temple/welcome-week",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//research",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//temple-research/centers-institutes",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//temple-research/research-divisions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//temple-research/faculty-research-news",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//temple-research/grants-funding",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//temple-research/clinical-trials",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//temple-research/technology-development",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//athletics",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//athletics/varsity-sports",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//athletics/tickets",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//athletics/stella-owl",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/board-trustees",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/president",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/history-traditions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/temple-health",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/news-media",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/offices",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/public-information",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/faculty-staff",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/campus-development",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/internal-audits",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//",
-            "target": "https://www.temple.edu//about/ethics-compliance",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//admissions",
-            "value": 4
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//admissions/undergraduate",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//admissions/graduate-professional",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//admissions/international-admissions",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//admissions/tuition-fees",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//admissions/financial-aid",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/degree-programs",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts/?hl=ja",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/schools-and-colleges",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts/community?hl=ja",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/accelerated-programs",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com///myaccount.google.com/",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/campuses",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com///www.google.com/intl/ja/privacy.html",
             "value": 2
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/honors-program",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/continuing-education-summer-sessions",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/international-study",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/courses-schedules",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//academics/dual-degree-programs",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/libraries",
-            "value": 4
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/arts-culture",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-temple/virtual-life",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/clubs-organizations",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-temple/diversity-inclusion",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/housing-dining",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/health-wellness",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/city-life",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/visiting-temple",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/faqs",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/sustainability-safety",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/temple-food-trucks",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/tobacco-free-temple",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/welcome-week",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//research",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//temple-research/centers-institutes",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//temple-research/research-divisions",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//temple-research/faculty-research-news",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//temple-research/grants-funding",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//temple-research/clinical-trials",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//temple-research/technology-development",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//athletics",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//athletics/varsity-sports",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//athletics/tickets",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//athletics/stella-owl",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/board-trustees",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/president",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/history-traditions",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/temple-health",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/news-media",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/offices",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/public-information",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/campus-development",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/internal-audits",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-temple/diversity-inclusion/preferred-name-use",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-temple/diversity-inclusion/resources",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//coronavirus",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//coronavirus/information-students",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//coronavirus/campus-communication",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//coronavirus/campus-events",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//coronavirus/faculty-and-staff-resources",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//coronavirus/international-campuses-and-programs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//coronavirus/staying-healthy",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/city-life/philadelphia",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/visiting-temple/accommodations",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/visiting-temple/dining-options",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/visiting-temple/religious-services-information",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/arts-and-culture",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/clubs-and-organizations",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/housing-dining-and-owlcards",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/parking-and-transportation",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/safety",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/student-banking",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/student-centers",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/campus-life/wireless-computers-and-phone",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/academics",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/academics/advising-and-academic-support",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/academics/courses-and-calendars",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/academics/international-students",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/academics/libraries",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/academics/registration-grades-and-books",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/academics/schools-and-colleges",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/health-and-wellness",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/health-and-wellness/athletics-and-fitness",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/health-and-wellness/health-and-counseling",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/tuition-and-financial-aid",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/tuition-and-financial-aid/financial-aid",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/tuition-and-financial-aid/tuition-and-billing",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/careers-and-internships",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/careers-and-internships/career-center",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/careers-and-internships/internships",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/students/careers-and-internships/student-jobs",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//life-at-temple/welcome-week/convocation",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/president/university-officers-and-presidents-advisors",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/president/past-presidents",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/president/2019-state-university",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/history-traditions/russell-conwell",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/history-traditions/temple-traditions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/history-traditions/acres-diamonds",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/history-traditions/honorary-degrees",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/history-traditions/honorary-degrees/past-honorary-degree-recipients",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/news-media/media-mentions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/news-media/temple-university-wallpapers",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/news-media/contact-members-strategic-marketing-and-communications",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/public-information/facts-about-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/working-at-temple",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/working-at-temple/calendars-and-time",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//chrome/answer/95647",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/working-at-temple/calendars-and-time/holiday-schedule",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts/answer/32050",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/working-at-temple/careers-at-temple",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//chrome/answer/95464",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/working-at-temple/human-resources",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts/answer/39612",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/working-at-temple/performance-and-training",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts/?hl=ja#topic=3382296",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts/answer/27441?hl=ja&ref_topic=3382296",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/catering-exception-policy",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts/answer/32040?hl=ja&ref_topic=3382296",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/catering-exception-policy/double-tree-catering-conferences",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts/answer/114129?hl=ja&ref_topic=3382296",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/contact",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts/answer/6304920?hl=ja&ref_topic=3382296",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/frequently-asked-questions",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts/answer/58585?hl=ja&ref_topic=3382296",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts/answer/3265955?hl=ja&ref_topic=3382296",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/corporate-responsibility",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts/answer/3118687?hl=ja&ref_topic=3382296",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/logo-and-graphics-guide",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts/answer/183723?hl=ja&ref_topic=3382296",
             "value": 1
         },
         {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/guidelines-trademark-use",
+            "source": "https://www.google.com//support/websearch?p=ws_cookies_notif&hl=ja",
+            "target": "https://www.google.com//accounts/troubleshooter/2402620?hl=ja&ref_topic=3382296",
             "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/student-faculty-and-staff-guide",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/becoming-licensed",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/trademark-and-licensing-faq",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/trademark-licensing-policy/where-buy-temple-gear",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/automobile-rental",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/club-quarters",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/doubletree-hotel",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/hampton-inn",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/hilton-garden-inn",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/hilton-philadelphia-at",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/holiday-inn-express",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff-resources/business-services/university-approved-hotels-car-rentals/loews-hotel",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/sonesta-philadelphia",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/business-services/university-approved-hotels-car-rentals/conwell-inn",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/campus-services",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/campus-services/computers-email-and-phones",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/campus-services/conferences-and-meetings",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/campus-services/digital-document-and-postal-services",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/campus-services/facilities-and-space",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/campus-services/id-cards",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/campus-services/parking-and-transportation",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/faculty-resources",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/faculty-resources/calendars-schedules-and-grades",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/faculty-resources/courses-and-curricula",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/faculty-resources/instructional-resources",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/faculty-resources/faculty-senate-and-news",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/finance-and-travel",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/finance-and-travel/accounting-and-budget",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/finance-and-travel/employee-banking-and-finance",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/finance-and-travel/purchasing",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/finance-and-travel/tuition-remission",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/finance-and-travel/travel-and-expenses",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/wellness-and-safety",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/wellness-and-safety/fitness-and-health",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/faculty-staff/wellness-and-safety/safety-and-alerts",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/campus-development/multipurpose-facilitystadium",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/campus-development/frequently-asked-questions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance/data-integrity",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance/data-integrity/rankings-data-overview-and-updates",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance/data-integrity/additional-resources",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance/data-integrity/accreditation-faq",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance/helpline",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance/resources",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/ethics-compliance/who-we-are",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions",
-            "target": "https://www.temple.edu//about/libraries/charles",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//about",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//about/meet-our-staff",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//about/our-campuses",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//about/contact",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply",
-            "value": 5
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/first-year-students",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/high-school-students/application-checklist",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/first-year-students/self-report-high-school-transcript",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/first-year-students/temple-option",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/next-steps-admitted-students",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/next-steps-admitted-students/experience-temple-day",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/transfer-students",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/transfer-students/application-checklist",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/transfer-students/transfer-equivalency-tool",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/international-students",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/international-students/scholarships",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/international-students/admitted-international-students",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/international-students/youarewelcomehere",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/international-students/youarewelcomehere-scholarship",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/international-students/visits-and-virtual-events",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/international-students/temple-rome-entry-year",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/international-students/international-student-profiles",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/international-students/frequently-asked-questions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/international-students/meet-our-international-staff",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/request-re-enroll",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/application-status",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/request-defer",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//apply/veterans",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//visit",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//visit/virtual-visit",
-            "value": 5
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//visit/virtual-visit/main-campus-tour",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//visit/virtual-visit/frequently-asked-questions",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//visit/ambler-events",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//academics",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//academics/programs-campus",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//costs-aid-scholarships",
-            "value": 2
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//costs-aid-scholarships/fly-4",
-            "value": 1
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//request-information",
-            "value": 3
-        },
-        {
-            "source": "https://www.temple.edu//admissions/undergraduate",
-            "target": "https://www.temple.edu//",
-            "value": 3
         }
     ],
-<<<<<<< HEAD
-    "exectime": 4.35
-=======
-    "exectime": 2.27
->>>>>>> master
+    "exectime": 2.85
 }

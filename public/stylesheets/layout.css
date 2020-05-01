@@ -125,7 +125,8 @@ html, body{
     float: left;
     height: 100%;
 	padding-top: 62px;
-    padding-bottom: 36px;
+	padding-bottom: 36px;
+	max-width: 331px;
 }
 #graphdisplay{
     float: left;
@@ -140,6 +141,12 @@ html, body{
     left: 0px;
     width: 100%;
     z-index: 1;
+}
+#showURLs{
+    text-align: center;
+    bottom: 5px;
+    right: 20px;
+	position: absolute;
 }
 .link { stroke: rgb(46, 41, 41); stroke-opacity: .6; stroke-width: 1px; }
 .container {

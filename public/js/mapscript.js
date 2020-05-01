@@ -26,6 +26,8 @@ var simulation = d3.forceSimulation()
     .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2)); // forces nodes to center of svg
 
+var showURL = false;
+
 var jsonfile = "public/json_files/JSONOUTPUT.json" 
 d3.json(jsonfile, function (error, graph) { // collects info via json
     if (error) throw error; // if we get an error here, we cannot read the json file
@@ -94,12 +96,17 @@ function update(links, nodes) { // updates what the svg looks like
     node.append("title")
         .text(function (d) {return d.id;});
 
-    /*    
     node.append("text")
-        .attr("dy", -3)
-        .text(function (d) {return d.id;});
-    */
-
+        d3.select("#showURLs")
+        .on("click", function(){
+            d3.selectAll(".node")
+            .attr("r", 5)
+            .style("fill", function (d, i) {return colors(i);})
+            .on("click", function(d){window.open(d.id)})
+            .attr("dy", -3)
+            .text(function (d) {return d.id;});
+        });
+    
     simulation
         .nodes(nodes)
         .on("tick", ticked);
@@ -152,3 +159,14 @@ function dragged(d) {
     //     d.fx = undefined;
     //     d.fy = undefined;
     // }
+
+function showURLs(){
+    console.log("showURLs is called");
+    if (showURL == true){
+        showURL = false;
+    }
+    else{
+        showURL = true;
+    }
+    console.log(showURL);
+}
