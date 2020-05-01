@@ -35,7 +35,7 @@ class UrlMap:
         self.explored = {}  # explored for bfs
         self.queue = [self.starting_url]  # queue for bfs
         self.stop_flag = False  # flag that stops while loop
-        self.adjacency_matrix = [] # adjacency matrix representation of pages
+        self.adjacency_list = [] # adjacency list representation of pages
         self.d3_json_links_list = []  # holds the links key in json output file
         self.d3_json_nodes_list = [{"id": self.starting_url}]  # holds the nodes key in json output file
         self.iter = 0 # iteration number for bfs
@@ -108,7 +108,7 @@ class UrlMap:
         # adds current node to our explored dictionary
         self.explored[this_node.curr_url] = 1
         # updates our json output to include this node // adjacency
-        self.update_adjacency_matrix(this_node)
+        self.update_adjacency_list(this_node)
         # updates our json output to include this node // d3js
         self.update_d3js_json(this_node)
 
@@ -137,18 +137,18 @@ class UrlMap:
         self.end_time = time.perf_counter()
         self.get_time(self.start_time, self.end_time)
 
-    # updates adjacency matrix with new node
-    def update_adjacency_matrix(self, this_node):
-        this_node.adj_mat_json["url"] = this_node.curr_url
+    # updates adjacency list with new node
+    def update_adjacency_list(self, this_node):
+        this_node.adj_list_json["url"] = this_node.curr_url
         url_links = [{"url_link": key, "times_linked": val}
                      for key, val in this_node.connections.items()]
-        this_node.adj_mat_json["url_links"] = url_links
-        # this_node.adj_mat_json["url_links"] = this_node.connections
-        # this_node.adj_mat_json["files"] = this_node.files
-        # this_node.adj_mat_json["ip"] = this_node.ip
-        # this_node.adj_mat_json["html"] = this_node.html
+        this_node.adj_list_json["url_links"] = url_links
+        # this_node.adj_list_json["url_links"] = this_node.connections
+        # this_node.adj_list_json["files"] = this_node.files
+        # this_node.adj_list_json["ip"] = this_node.ip
+        # this_node.adj_list_json["html"] = this_node.html
 
-        self.adjacency_matrix.append(this_node.adj_mat_json)
+        self.adjacency_list.append(this_node.adj_list_json)
 
     # updates d3js json with new node
     def update_d3js_json(self, this_node):
@@ -209,7 +209,7 @@ class UrlNode:
         self.connections = {}  # this nodes outgoing links
         self.files = []  # the filenames in this nodes html
         self.ip = ""  # this nodes ip
-        self.adj_mat_json = {}  # this node formatted to json for adjacency matrix
+        self.adj_list_json = {}  # this node formattted to json for adjacency list
         # self.json_links = [] # this nodes links for d3js
         # self.json_node = {} # this node for d3js
         self.bfs_level = bfs_level  # level of bfs the node was discovered on
